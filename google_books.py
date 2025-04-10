@@ -4,9 +4,9 @@ import csv
 import time
 
 # IW02-bookdata
-api_key = 'AIzaSyBXcwyqv8jp7DbKJ5qOGd8HOBKCkKuXLvQ'
+# api_key = 'AIzaSyBXcwyqv8jp7DbKJ5qOGd8HOBKCkKuXLvQ'
 #IW02-bookdata-two
-# api_key = 'AIzaSyAMdIkjqEV7DI2f_Ar1oWvR0cKpMI2UCME'
+api_key = 'AIzaSyAMdIkjqEV7DI2f_Ar1oWvR0cKpMI2UCME'
 
 def get_volume_ids_by_author_and_title(title, author):
     query = f'intitle:"{title}" + inauthor:"{author}"'
@@ -60,7 +60,7 @@ def read_books_and_query_csv(file_path):
     return volume_ids
 
 
-volume_ids = read_books_and_query_csv('/Users/ariannahaider/Downloads/IW02/pen_short.csv')
+volume_ids = read_books_and_query_csv('/Users/ariannahaider/IW02-Book-Ban/pen_short.csv')
 # # Print the volume IDs
 # print("Volume IDs:", volume_ids)
 
