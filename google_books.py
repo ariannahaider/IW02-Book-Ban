@@ -4,9 +4,11 @@ import csv
 import time
 
 # IW02-bookdata
-# api_key = 'AIzaSyBXcwyqv8jp7DbKJ5qOGd8HOBKCkKuXLvQ'
+api_key = 'AIzaSyBXcwyqv8jp7DbKJ5qOGd8HOBKCkKuXLvQ'
 #IW02-bookdata-two
-api_key = 'AIzaSyAMdIkjqEV7DI2f_Ar1oWvR0cKpMI2UCME'
+# api_key = 'AIzaSyAMdIkjqEV7DI2f_Ar1oWvR0cKpMI2UCME'
+#IW02-bookdata-three
+# api_key = 'AIzaSyCYScJWj_qmlNxGPXRLCQxtbNcRAFS11QU'
 
 def get_volume_ids_by_author_and_title(title, author):
     query = f'intitle:"{title}" + inauthor:"{author}"'
