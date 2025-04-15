@@ -4,9 +4,10 @@ import pandas as pd
 import plotly.graph_objects as go
 import us
 import json
+import glob
 
 # --- Load and preprocess your data ---
-data = pd.read_csv("pen_combined_copy.csv")
+data = pd.read_csv("pen_combined.csv")
 
 # Ensure state abbreviations
 data["State"] = data["State"].apply(lambda x: us.states.lookup(x).abbr if us.states.lookup(x) else x)
@@ -18,11 +19,16 @@ year_options = ["All Years"] + years
 
 top_books = data["Title"].value_counts().head(10)
 
-# beginning json part
-book_data_json = 'books_info_final_one_copy.json'
+# Get all matching JSON files
+json_files = glob.glob('books_info_final_*.json')
 
-with open(book_data_json, 'r') as file:
-    data_json = json.load(file)
+# Load and combine data from all matching files
+data_json = []
+for file in json_files:
+    with open(file, 'r') as f:
+        file_data = json.load(f)
+        if isinstance(file_data, list):
+            data_json.extend(file_data)
 
 all_titles = []
 all_categories = []
@@ -49,6 +55,11 @@ cat_df = pd.DataFrame({
     'Title': all_titles,
     'Categories': all_categories
 })
+
+data_gender = pd.read_csv('pen_with_genders.csv')
+
+# with open("school_district_boundaries.geojson", "r") as fboundary:
+#     geojson_sd_file = json.load(fboundary)
 
 # --- Dash app setup ---
 app = Dash(__name__)
@@ -142,6 +153,30 @@ app.layout = html.Div([
         style={'width': '50%'}
     ),
     dcc.Graph(id="top-author-bar-chart"),
+
+    # Genders of Authors
+    html.H3("Most Banned Genders of Authors"),
+
+    html.P("Select a school year for the bar chart (or view all years):"),
+    dcc.Dropdown(
+        id='year-select-genders',
+        options=[{"label": year, "value": year} for year in year_options],
+        value="All Years",  # Default value is "All Years"
+        style={'width': '50%'}
+    ),
+    dcc.Graph(id="top-gender-bar-chart"),
+
+    # # School district map
+    # html.H3("Bans By District"),
+
+    # html.P("Select a school year for the bar chart (or view all years):"),
+    # dcc.Dropdown(
+    #     id='year-select-sd-map',
+    #     options=[{"label": year, "value": year} for year in year_options],
+    #     value="All Years",  # Default value is "All Years"
+    #     style={'width': '50%'}
+    # ),
+    # dcc.Graph(id="sd-map"),
 ])
 
 
@@ -152,23 +187,31 @@ app.layout = html.Div([
      Output("dumbbell-chart", "figure"),
      Output("top-sd-bar-chart", "figure"),
      Output("top-cat-bar-chart", "figure"),
-     Output("top-author-bar-chart", "figure")],
+     Output("top-author-bar-chart", "figure"),
+     Output("top-gender-bar-chart", "figure"),
+     ],
     [Input("year-select-map", "value"),
      Input("year-select-bar", "value"),
      Input("start-year", "value"),
      Input("end-year", "value"),
      Input("year-select-sd", "value"),
      Input("year-select-categories", "value"),
-     Input("year-select-authors", "value")],
+     Input("year-select-authors", "value"),
+     Input("year-select-genders", "value")
+     ],
 )
-def update_map(selected_year_map, selected_year_bar, start_year, end_year, selected_year_sd, selected_year_cat, selected_year_author):
+
+# Input("year-select-sd-map", "value")
+# Output("sd-map", "figure")
+
+def update_map(selected_year_map, selected_year_bar, start_year, end_year, selected_year_sd, selected_year_cat, selected_year_author, selected_year_gender,):
+    # selected_year_sd_map
+
     # Filter data
     if selected_year_map == "All Years":
         filtered = data.copy()
-        title_suffix = "All Years Combined"
     else:
         filtered = data[data["Year-Range"] == selected_year_map]
-        title_suffix = f"{selected_year_map}"
 
     # Aggregate book bans per state
     state_bans = filtered.groupby("State")["Title"].count().reset_index()
@@ -338,7 +381,57 @@ def update_map(selected_year_map, selected_year_bar, start_year, end_year, selec
         yaxis=dict(autorange='reversed')
     )
 
-    return choropleth_fig, bar_chart_fig_top_books, dumbbell_fig, bar_chart_fig_top_sd, bar_chart_fig_top_cat, bar_chart_fig_top_authors
+    # Handle bar chart data
+    if selected_year_gender == "All Years":
+        filtered_bar_gender = data_gender.copy()  # Aggregate all years for the bar chart
+    else:
+        filtered_bar_gender = data_gender[data_gender["Year-Range"] == selected_year_gender]  # Filter by selected year
+
+    # Count the number of bans per author
+    top_genders = filtered_bar_gender["sex or gender"].value_counts().head(10)
+
+    # Create bar chart for top 10 banned books
+    bar_chart_fig_top_genders = go.Figure(data=[
+        go.Bar(
+            x=top_genders.index,
+            y=top_genders.values
+        )
+    ])
+
+    bar_chart_fig_top_genders.update_layout(
+        xaxis_title="Sex or Gender",
+        yaxis_title="Number of Authors"
+    )
+
+    # # Filter data
+    # if selected_year_sd_map == "All Years":
+    #     filtered_sd_map = data.copy()
+    # else:
+    #     filtered_sd_map = data[data["Year-Range"] == selected_year_sd_map]
+
+    # # Aggregate book bans per state
+    # state_bans_sd = filtered_sd_map.groupby("District")["Title"].count().reset_index()
+    # state_bans_sd.columns = ["District", "Ban Count"]
+
+    # # Create choropleth
+    # choropleth_sd_map = px.choropleth(
+    #     state_bans_sd,
+    #     geojson=geojson_sd_file,
+    #     locations="District",
+    #     color="Ban Count",
+    #     color_continuous_scale="Reds",
+    #     scope="usa",
+    # )
+
+    # choropleth_sd_map.update_layout(
+    #     geo=dict(bgcolor='rgba(0,0,0,0)'),
+    #     plot_bgcolor='white',
+    #     paper_bgcolor='white',
+    #     margin={"r":0, "t":30, "l":0, "b":0}
+    # )
+
+    return choropleth_fig, bar_chart_fig_top_books, dumbbell_fig, bar_chart_fig_top_sd, bar_chart_fig_top_cat, bar_chart_fig_top_authors, bar_chart_fig_top_genders, 
+# choropleth_sd_map
 
 
 if __name__ == "__main__":
