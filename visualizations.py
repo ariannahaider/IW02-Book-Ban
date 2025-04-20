@@ -20,7 +20,7 @@ year_options = ["All Years"] + years
 top_books = data["Title"].value_counts().head(10)
 
 # Get all matching JSON files
-json_files = glob.glob('books_info_final_*.json')
+json_files = glob.glob('/Users/ariannahaider/IW02-Book-Ban/books_info_finals/books_info_final_*.json')
 
 # Load and combine data from all matching files
 data_json = []
@@ -55,6 +55,126 @@ cat_df = pd.DataFrame({
     'Title': all_titles,
     'Categories': all_categories
 })
+
+# Explode the categories so that each category gets its own row
+exploded_df = cat_df.explode('Categories').dropna(subset=['Categories'])
+genres = [
+    "adventure and adventurers",
+    "biography",
+    "comics (graphic works)",
+    "drama",
+    "dystopian",
+    "fantasy",
+    "fiction",
+    "folklore",
+    "graphic novels",
+    "historical fiction",
+    "horror",
+    "humor",
+    "literary fiction",
+    "memoir",
+    "mystery",
+    "nonfiction",
+    "novel",
+    "picture books",
+    "poetry",
+    "realistic fiction",
+    "romance",
+    "science fiction",
+    "short stories",
+    "thriller",
+    "young adult literature"
+]
+
+topics = [
+    "abortion",
+    "abuse",
+    "accidents",
+    "acting",
+    "activism",
+    "adolescence",
+    "adoption",
+    "adultery",
+    "aeronautics",
+    "african american authors",
+    "aging",
+    "alcohol",
+    "aliens",
+    "american history",
+    "animal rights",
+    "antisemitism",
+    "art",
+    "asian americans",
+    "atheism",
+    "autism",
+    "beauty standards",
+    "bullying",
+    "cancer",
+    "capitalism",
+    "censorship",
+    "child abuse",
+    "climate change",
+    "colonialism",
+    "communism",
+    "consent",
+    "conservation",
+    "crime",
+    "death",
+    "disability",
+    "discrimination",
+    "divorce",
+    "drug abuse",
+    "eating disorders",
+    "environment",
+    "evolution",
+    "feminism",
+    "gender identity",
+    "genocide",
+    "grief",
+    "gun violence",
+    "health",
+    "homelessness",
+    "immigration",
+    "incarceration",
+    "incest",
+    "indigenous peoples",
+    "islamophobia",
+    "lgbtq+",
+    "mental health",
+    "miscarriage",
+    "murder",
+    "nontraditional families",
+    "police brutality",
+    "pregnancy",
+    "racism",
+    "rape",
+    "religion",
+    "school shootings",
+    "sex education",
+    "sexual assault",
+    "sexuality",
+    "slavery",
+    "suicide",
+    "terrorism",
+    "trauma",
+    "violence",
+    "war",
+    "white supremacy",
+    "witchcraft",
+    "women's rights"
+]
+
+# Convert categories in the DataFrame to lowercase for comparison
+exploded_df['Categories'] = exploded_df['Categories'].str.lower()
+
+# Convert genres and topics lists to lowercase for comparison
+genres = [genre.lower() for genre in genres]
+topics = [topic.lower() for topic in topics]
+
+# Filter for genres and topics case-insensitively
+genres_df = exploded_df[exploded_df['Categories'].isin(genres)]
+topics_df = exploded_df[exploded_df['Categories'].isin(topics)]
+
 
 data_gender = pd.read_csv('pen_with_genders.csv')
 
@@ -121,7 +241,7 @@ app.layout = html.Div([
     html.H3("School Districts with Most Banned Books"),
 
     # School district chart year filter
-    html.P("Select a school year for the bar chart (or view all years):"),
+    html.P("Select a school year:"),
     dcc.Dropdown(
         id='year-select-sd',
         options=[{"label": year, "value": year} for year in year_options],
@@ -130,17 +250,29 @@ app.layout = html.Div([
     ),
     dcc.Graph(id="top-sd-bar-chart"),
 
-    # Book category bar chart
-    html.H3("Top Categories of Banned Books"),
+    # Book Genre bar chart
+    html.H3("Top Genres of Banned Books"),
 
-    html.P("Select a school year for the bar chart (or view all years):"),
+    html.P("Select a school year:"),
     dcc.Dropdown(
-        id='year-select-categories',
+        id='year-select-genres',
         options=[{"label": year, "value": year} for year in year_options],
         value="All Years",  # Default value is "All Years"
         style={'width': '50%'}
     ),
-    dcc.Graph(id="top-cat-bar-chart"),
+    dcc.Graph(id="top-genre-bar-chart"),
+
+     # Book Topic bar chart
+    html.H3("Top Topics of Banned Books"),
+
+    html.P("Select a school year:"),
+    dcc.Dropdown(
+        id='year-select-topics',
+        options=[{"label": year, "value": year} for year in year_options],
+        value="All Years",  # Default value is "All Years"
+        style={'width': '50%'}
+    ),
+    dcc.Graph(id="top-topic-bar-chart"),
 
     # Number of bans by author bar chart
     html.H3("Authors with Most Banned Books"),
@@ -157,7 +289,7 @@ app.layout = html.Div([
     # Genders of Authors
     html.H3("Most Banned Genders of Authors"),
 
-    html.P("Select a school year for the bar chart (or view all years):"),
+    html.P("Select a school year:"),
     dcc.Dropdown(
         id='year-select-genders',
         options=[{"label": year, "value": year} for year in year_options],
@@ -186,7 +318,8 @@ app.layout = html.Div([
      Output("top-books-bar-chart", "figure"),
      Output("dumbbell-chart", "figure"),
      Output("top-sd-bar-chart", "figure"),
-     Output("top-cat-bar-chart", "figure"),
+     Output("top-genre-bar-chart", "figure"),
+     Output("top-topic-bar-chart", "figure"),
      Output("top-author-bar-chart", "figure"),
      Output("top-gender-bar-chart", "figure"),
      ],
@@ -195,7 +328,8 @@ app.layout = html.Div([
      Input("start-year", "value"),
      Input("end-year", "value"),
      Input("year-select-sd", "value"),
-     Input("year-select-categories", "value"),
+     Input("year-select-genres", "value"),
+     Input("year-select-topics", "value"),
      Input("year-select-authors", "value"),
      Input("year-select-genders", "value")
      ],
@@ -204,7 +338,7 @@ app.layout = html.Div([
 # Input("year-select-sd-map", "value")
 # Output("sd-map", "figure")
 
-def update_map(selected_year_map, selected_year_bar, start_year, end_year, selected_year_sd, selected_year_cat, selected_year_author, selected_year_gender,):
+def update_map(selected_year_map, selected_year_bar, start_year, end_year, selected_year_sd, selected_year_genre, selected_year_topic, selected_year_author, selected_year_gender,):
     # selected_year_sd_map
 
     # Filter data
@@ -223,7 +357,7 @@ def update_map(selected_year_map, selected_year_bar, start_year, end_year, selec
         locations="State",
         locationmode="USA-states",
         color="Ban Count",
-        color_continuous_scale="Reds",
+        color_continuous_scale="sunset",
         scope="usa",
     )
 
@@ -248,7 +382,8 @@ def update_map(selected_year_map, selected_year_bar, start_year, end_year, selec
         go.Bar(
             x=top_books.values,
             y=top_books.index,
-            orientation="h"
+            orientation="h",
+            marker_color='#fc766a'
         )
     ])
 
@@ -275,13 +410,13 @@ def update_map(selected_year_map, selected_year_bar, start_year, end_year, selec
     dumbbell_fig.add_trace(go.Scatter(
         x=dumbbell_data["Ban Count_start"], y=dumbbell_data["State"],
         mode="markers", name=start_year,
-        marker=dict(color="red", size=12)
+        marker=dict(color="#fca17d", size=12)
     ))
 
     dumbbell_fig.add_trace(go.Scatter(
         x=dumbbell_data["Ban Count_end"], y=dumbbell_data["State"],
         mode="markers", name=end_year,
-        marker=dict(color="blue", size=12)
+        marker=dict(color="#99b898", size=12)
     ))
 
     for i in range(len(dumbbell_data)):
@@ -305,53 +440,92 @@ def update_map(selected_year_map, selected_year_bar, start_year, end_year, selec
     else:
         filtered_bar_sd = data[data["Year-Range"] == selected_year_sd]  # Filter by selected year
 
+    filtered_bar_sd["District + State"] = filtered_bar_sd["District"] + ", " + filtered_bar_sd["State"]
+
     # Count number of times each book was banned
-    top_books_sd = filtered_bar_sd["District"].value_counts().head(10)
+    top_books_sd = filtered_bar_sd["District + State"].value_counts().head(10)
 
     # Create bar chart for top 10 banned books
     bar_chart_fig_top_sd = go.Figure(data=[
         go.Bar(
             x=top_books_sd.values,
             y=top_books_sd.index,
-            orientation="h"
+            orientation="h",
+            marker_color='#d6a5c0'
         )
     ])
 
-    bar_chart_fig_top_sd .update_layout(
+    bar_chart_fig_top_sd.update_layout(
         xaxis_title="Number of Bans",
         yaxis_title="District",
         yaxis=dict(autorange='reversed')
     )
 
-    # Top Book Categories
-    if selected_year_cat == "All Years":
-        filtered_bar_cat= data.copy()  # Aggregate all years for the bar chart
+    # Top Book Genres
+    if selected_year_genre == "All Years":
+        filtered_bar_genre= data.copy()  # Aggregate all years for the bar chart
     else:
-        filtered_bar_cat = data[data["Year-Range"] == selected_year_cat]  # Filter by selected year
+        filtered_bar_genre = data[data["Year-Range"] == selected_year_genre]  # Filter by selected year
 
     ## Get the titles for the selected year
-    filtered_titles = filtered_bar_cat["Title"].unique()
+    filtered_titles_g = filtered_bar_genre["Title"].unique()
 
     # Filter cat_df to include only books in those titles
-    filtered_cat_df = cat_df[cat_df["Title"].isin(filtered_titles)]
-
-    # Flatten the list of categories for those titles
-    filtered_categories = [cat for sublist in filtered_cat_df["Categories"] for cat in sublist]
+    filtered_cat_df_g = cat_df[cat_df["Title"].isin(filtered_titles_g)]
+    
+    filtered_categories = [cat for sublist in filtered_cat_df_g["Categories"] for cat in sublist]
+    filtered_genres = [cat.lower() for cat in filtered_categories if cat.lower() in genres]
 
     # Count and get top 10 categories
-    category_series = pd.Series(filtered_categories)
-    top_10_categories = category_series.value_counts().head(10)
+    genre_series = pd.Series(filtered_genres)
+    top_10_genres = genre_series.value_counts().head(10)
 
-    bar_chart_fig_top_cat = go.Figure(data=[
+    bar_chart_fig_top_genre = go.Figure(data=[
         go.Bar(
-            x=top_10_categories.values,
-            y=top_10_categories.index,
-            orientation="h"
+            x=top_10_genres.values,
+            y=top_10_genres.index,
+            orientation="h",
+            marker_color="#355c7d"
         )
     ])
 
-    bar_chart_fig_top_cat.update_layout(
-        xaxis_title="Category",
+    bar_chart_fig_top_genre.update_layout(
+        xaxis_title="Genre",
+        yaxis_title="Frequency",
+        xaxis_tickangle=-45,
+        yaxis=dict(autorange='reversed')
+    )
+
+    # Top Book Topics
+    if selected_year_topic == "All Years":
+        filtered_bar_topics= data.copy()  # Aggregate all years for the bar chart
+    else:
+        filtered_bar_topics = data[data["Year-Range"] == selected_year_topic]  # Filter by selected year
+
+    ## Get the titles for the selected year
+    filtered_titles_t = filtered_bar_topics["Title"].unique()
+
+    # Filter cat_df to include only books in those titles
+    filtered_cat_df_g = cat_df[cat_df["Title"].isin(filtered_titles_t)]
+    
+    filtered_categories = [cat for sublist in filtered_cat_df_g["Categories"] for cat in sublist]
+    filtered_topics = [cat.lower() for cat in filtered_categories if cat.lower() in topics]
+
+    # Count and get top 10 categories
+    topic_series = pd.Series(filtered_topics)
+    top_10_topics = topic_series.value_counts().head(10)
+
+    bar_chart_fig_top_topic = go.Figure(data=[
+        go.Bar(
+            x=top_10_topics.values,
+            y=top_10_topics.index,
+            orientation="h",
+            marker_color="#355c7d"
+        )
+    ])
+
+    bar_chart_fig_top_topic.update_layout(
+        xaxis_title="Topics",
         yaxis_title="Frequency",
         xaxis_tickangle=-45,
         yaxis=dict(autorange='reversed')
@@ -371,7 +545,8 @@ def update_map(selected_year_map, selected_year_bar, start_year, end_year, selec
         go.Bar(
             x=top_authors.values,
             y=top_authors.index,
-            orientation="h"
+            orientation="h",
+            marker_color="#99b898"
         )
     ])
 
@@ -394,7 +569,8 @@ def update_map(selected_year_map, selected_year_bar, start_year, end_year, selec
     bar_chart_fig_top_genders = go.Figure(data=[
         go.Bar(
             x=top_genders.index,
-            y=top_genders.values
+            y=top_genders.values,
+            marker_color="#fc766a"
         )
     ])
 
@@ -430,7 +606,7 @@ def update_map(selected_year_map, selected_year_bar, start_year, end_year, selec
     #     margin={"r":0, "t":30, "l":0, "b":0}
     # )
 
-    return choropleth_fig, bar_chart_fig_top_books, dumbbell_fig, bar_chart_fig_top_sd, bar_chart_fig_top_cat, bar_chart_fig_top_authors, bar_chart_fig_top_genders, 
+    return choropleth_fig, bar_chart_fig_top_books, dumbbell_fig, bar_chart_fig_top_sd, bar_chart_fig_top_genre, bar_chart_fig_top_topic, bar_chart_fig_top_authors, bar_chart_fig_top_genders, 
 # choropleth_sd_map
 
 
