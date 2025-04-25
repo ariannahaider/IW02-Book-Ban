@@ -165,7 +165,7 @@ topics = [
 ]
 
 # Convert categories in the DataFrame to lowercase for comparison
-exploded_df['Categories'] = exploded_df['Categories'].str.lower()
+exploded_df['Categories'] = exploded_df['Categories'].astype(str).str.lower()
 
 # Convert genres and topics lists to lowercase for comparison
 genres = [genre.lower() for genre in genres]
