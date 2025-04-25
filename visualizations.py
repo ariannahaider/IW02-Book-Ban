@@ -183,6 +183,8 @@ data_gender = pd.read_csv('pen_with_genders.csv')
 
 # --- Dash app setup ---
 app = Dash(__name__)
+server = app.server
+
 
 app.layout = html.Div([
     html.H1("Banned Books: A Hidden Narrative", style={'textAlign':'center'}),
