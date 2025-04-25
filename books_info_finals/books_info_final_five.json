@@ -5700,68 +5700,6 @@
   },
   {
     "kind": "books#volume",
-    "id": "LZt6zwEACAAJ",
-    "etag": "6o9ym7DwiRk",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/LZt6zwEACAAJ",
-    "volumeInfo": {
-      "title": "Three Little Words",
-      "subtitle": "Love Unexpected : a Romance Compilation",
-      "publisher": "Covenant Communications, Incorporated",
-      "publishedDate": "2016",
-      "description": "Follows the journeys of three young women as they encounter love where they least expect it.",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_10",
-          "identifier": "1680479849"
-        },
-        {
-          "type": "ISBN_13",
-          "identifier": "9781680479843"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": false
-      },
-      "pageCount": 226,
-      "printedPageCount": 226,
-      "printType": "BOOK",
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "preview-1.0.0",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=LZt6zwEACAAJ&hl=&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=LZt6zwEACAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LZt6zwEACAAJ"
-    },
-    "saleInfo": {
-      "country": "US",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "US",
-      "viewability": "NO_PAGES",
-      "embeddable": false,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=LZt6zwEACAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "NONE",
-      "quoteSharingAllowed": false
-    }
-  },
-  {
-    "kind": "books#volume",
     "id": "H4eQEAAAQBAJ",
     "etag": "28CkoUaCVlY",
     "selfLink": "https://www.googleapis.com/books/v1/volumes/H4eQEAAAQBAJ",
