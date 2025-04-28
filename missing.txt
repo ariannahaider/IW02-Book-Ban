@@ -1,530 +1,90 @@
 books_info_final_one:
-1. You: A Novel of Dark Obsession,"Kepnes, Caroline",,,,Alaska,Matanuska-Susitna Borough School District,2023-2024
-2. This Book Is Gay,"Dawson, Juno",,,,California,Escondido Union School District,2023-2024
-3. Melissa (George),"Gino, Alex",,,,Florida,Alachua County Public Schools,2023-2024
-4. Being Jazz: My Life as a (Transgender) Teen,"Jennings, Jazz",,,,Florida,Charlotte County Public Schools,2023-2024
-5. "Real Live Boyfriends: Yes. Boyfriends, Plural. If My Life Weren't Complicated, I Wouldn't Be Ruby Oliver","Lockhart, E.",,,,Florida,Charlotte County Public Schools,2023-2024
-6. Girl Made of Stars,"Blake, Ashley Herring",,,,Florida,Clay County School District,2023-2024
-7. As Old as Time: A Twisted Tail,"Braswell, Liz",,,,Florida,Clay County School District,2023-2024
-8. Once and Future,"Capetta, A. R.","McCarthy, Cori",,,Florida,Clay County School District,2023-2024
-9. Lies You Never Told Me,"Donaldson, Jennifer",,,,Florida,Clay County School District,2023-2024
-10. Wild Tongues Can't Be Tamed: 15 Voices from the Latinx Diaspora,"Fennell, Saraciea J.","Oshiro, Mark; Coster, Haima; Diaz, Natasha; Medina, Meg; Randall, Julian; Fennell, Saraciea J.; Zoboi, Ibi; Aneola, Cristina; Haywood, Kahlil; Jamal, Zakiya H.; Rivera, Lilliam; Mendez, Jasminne; Contreras, Ingrid Rojas; Martinez, Janel; Acevedo, Elizabeth",,,Florida,Clay County School District,2023-2024
-11. "At Last, Jedi: A Christina Starspeeder Story","Ignatow, Amy","Krosoczka, Jarrett J.","Krosoczka, Jarrett J.",,Florida,Clay County School District,2023-2024
-12. Research for the Social Improvement and General Betterment of Lydia Goldblatt and Julie Graham-Chang,"Ignatow, Amy",,,,Florida,Clay County School District,2023-2024
-13. The Less-Than-Hidden Secrets and Final Revelations of Lydia Goldblatt and Julie Graham-Chang,"Ignatow, Amy",,,,Florida,Clay County School District,2023-2024
-14. The Sign of the Cat,"Jonell, Lynee",,,,Florida,Clay County School District,2023-2024
-15. "A Game of Thrones: The Graphic Novel, Vol. 3","Martin, George R. R.","Abraham, Daniel","Patterson, Tommy",,Florida,Clay County School District,2023-2024
-16. "Minecraft, Vol 1","Monster, Sfe R.",,"Graley, Sarah",,Florida,Clay County School District,2023-2024
-17. Night Owl,"Mylnowski, Sarah","Jenkins, Emily; Myracle, Lauren",,,Florida,Clay County School District,2023-2024
+1. Girl Made of Stars,"Blake, Ashley Herring",,,,Florida,Clay County School District,2023-2024
 
 books_info_final_two:
-1. The Tale of a Body Thief,"Rice, Anne",,,,Florida,Clay County School District,2023-2024
-2. Rise,"Robertson, Andrea",,,,Florida,Clay County School District,2023-2024
-3. Snakeroot,"Robertson, Andrea",,,,Florida,Clay County School District,2023-2024
-4. Always Running: La Vida Loca: Gang Days In LA,"Rodriquez, Luis J.",,,,Florida,Clay County School District,2023-2024
-5. Not Even Bones,"Schaeffer, Rebecca",,,,Florida,Clay County School District,2023-2024
-6. Phoebe and Her Unicorn,"Simpson, Dana",,,,Florida,Clay County School District,2023-2024
-7. Solo quedó nuestra historia,Solo Quedo Nuestra Historia,,,,Florida,Clay County School District,2023-2024
-8. Every Dog in the Neighborhood,"Stead, Philip C.",,"Cordell, Matthew",,Florida,Clay County School District,2023-2024
-9. Sticks and Scones,"Ukazu, Ngozi",,,,Florida,Clay County School District,2023-2024
-10. "The Astonishing Life of Octavian Nothing, Traitor to the Nation, Volume II: The Kingdom on the Waves","Anderson, M.T.",,,,Florida,Collier County Public Schools,2023-2024
-11. "Annie's Baby: The Diary of Anonymous, a Pregnant Teenager",Anonymous,"Sparks, Beatrice",,,Florida,Collier County Public Schools,2023-2024
-12. Lucy in the Sky,Anonymous,,,,Florida,Collier County Public Schools,2023-2024
-13. The Book of David,Anonymous,,,,Florida,Collier County Public Schools,2023-2024
-14. Busted Flush,"Farrell, S.L.","Martin, George R.R.",,,Florida,Collier County Public Schools,2023-2024
-15. See All the Stars,"Fick, Kit",,,,Florida,Collier County Public Schools,2023-2024
-16. Bobby Rex's Greatest Hits,"Gingher, Marianne",,,,Florida,Collier County Public Schools,2023-2024
-17. A Time to Kill,"Grishman, John",,,,Florida,Collier County Public Schools,2023-2024
-18. Many Waters,"L'Engle, Madeline",,,,Florida,Collier County Public Schools,2023-2024
-19. The ABC's of LGBT+,"Mardell, Ashley",,,,Florida,Collier County Public Schools,2023-2024
-20. Blind Sighted,"Moore, Peter G.",,,,Florida,Collier County Public Schools,2023-2024
-21. When Kambia Elain Flew in from Neptune,"Williams, Lori Aurelia",,,,Florida,Collier County Public Schools,2023-2024
-22. "Deal with It! A Whole New Approach to Your Body, Brain, and Life as a gURL","Drill, Esther","Odes, Rebecca; McDonald, Heather",,,Florida,Duval County Public Schools,2023-2024
-23. Boy Girl Boy,"Koertge, Ron",,,,Florida,Duval County Public Schools,2023-2024
-24. Ghost House,"Adornetto, Alexandra",,,,Florida,Escambia County Public Schools,2023-2024
-25. The Wrath and The Dawn,"Ahdieh, Renée",,,,Florida,Escambia County Public Schools,2023-2024
-26. "The Astonishing Life of Octavian Nothing, Traitor to the Nation, Volume I: The Pox Party","Anderson, M. T.",,,,Florida,Escambia County Public Schools,2023-2024
+1. Solo quedó nuestra historia,Solo Quedo Nuestra Historia,,,,Florida,Clay County School District,2023-2024
 
 books_info_final_three:
 1. The Bible Book,Anonymous,,,,Florida,Escambia County Public Schools,2023-2024
-2. Also Known As,"Benway, Robin",,,,Florida,Escambia County Public Schools,2023-2024
-3. Sexual Violence,"Berlatsky, Noah",,,,Florida,Escambia County Public Schools,2023-2024
-4. Cold Day in the Sun,"Biren, Sara L.",,,,Florida,Escambia County Public Schools,2023-2024
-5. How the Prince of Elfhame Learned to Hate Stories,"Black, Holly",,,,Florida,Escambia County Public Schools,2023-2024
-6. Night Blood,"Blake, Elly",,,,Florida,Escambia County Public Schools,2023-2024
-7. Goat Girls: Two Weetzie Bat Books,"Block, Francesca Lia",,,,Florida,Escambia County Public Schools,2023-2024
-8. Khaled Hosseini's The Kite Runner,"Bloom, Harold",,,,Florida,Escambia County Public Schools,2023-2024
-9. Ripley's Believe it or Not! 100 Years,"Bolin, Carrie",,,,Florida,Escambia County Public Schools,2023-2024
-10. Ripley's Believe It Or Not! A Century of Strange!,"Bolin, Carrie",,,,Florida,Escambia County Public Schools,2023-2024
-11. The Absolute Value of -1,"Brezenoff, Steven",,,,Florida,Escambia County Public Schools,2023-2024
-12. 100 Bible Stories,"Bull, Norman J.",,,,Florida,Escambia County Public Schools,2023-2024
-13. Abandon,"Cabot, Meg",,,,Florida,Escambia County Public Schools,2023-2024
-14. The Princess Diaries,"Cabot, Meg",,,,Florida,Escambia County Public Schools,2023-2024
-15. The Boy Next Door,"Cabot, Meggin",,,,Florida,Escambia County Public Schools,2023-2024
-16. The Feminism Book,"Carroll, Georgie",,,,Florida,Escambia County Public Schools,2023-2024
-17. The Mythology Book,"Carroll, Georgie",,,,Florida,Escambia County Public Schools,2023-2024
-18. The Goddess Legacy: An Original Goddess Test Collection,"Carter, Aimée",,,,Florida,Escambia County Public Schools,2023-2024
-19. "Black Panther: A Nation Under Our Feet, Vol. 1","Coates, Ta-Nehisi",,"Stelfreeze, Brian; Martin, Laura; Sprouse, Chris; Story, Karl",,Florida,Escambia County Public Schools,2023-2024
-20. "Black Panther: A Nation Under Our Feet, Vol. 4","Coates, Ta-Nehisi",,,,Florida,Escambia County Public Schools,2023-2024
-21. Dash and Lily's Book of Dares,"Cohn, Rachel","Levithan, David",,,Florida,Escambia County Public Schools,2023-2024
-22. The Forest Queen,"Cornwell, Betsy",,,,Florida,Escambia County Public Schools,2023-2024
-23. Tempest,"Cross, Julie",,,,Florida,Escambia County Public Schools,2023-2024
-24. Mirage,"Daud, Somaiya",,,,Florida,Escambia County Public Schools,2023-2024
-25. Lyndon B. Johnson,"Day, Meredith",,,,Florida,Escambia County Public Schools,2023-2024
-26. Love and War,"de la Cruz, Melissa",,,,Florida,Escambia County Public Schools,2023-2024
-27. "Health Smarts: How to Eat Right, Stay Fit, Make Positive Choices, and More","Doeden, Matt",,,,Florida,Escambia County Public Schools,2023-2024
-28. Brightly Burning,"Donne, Alexa",,,,Florida,Escambia County Public Schools,2023-2024
-29. The Belgariad,"Eddings, David",,,,Florida,Escambia County Public Schools,2023-2024
+2. 100 Bible Stories,"Bull, Norman J.",,,,Florida,Escambia County Public Schools,2023-2024
+3. The Feminism Book,"Carroll, Georgie",,,,Florida,Escambia County Public Schools,2023-2024
+4. The Mythology Book,"Carroll, Georgie",,,,Florida,Escambia County Public Schools,2023-2024
+5. "Black Panther: A Nation Under Our Feet, Vol. 1","Coates, Ta-Nehisi",,"Stelfreeze, Brian; Martin, Laura; Sprouse, Chris; Story, Karl",,Florida,Escambia County Public Schools,2023-2024
+6. "Black Panther: A Nation Under Our Feet, Vol. 4","Coates, Ta-Nehisi",,,,Florida,Escambia County Public Schools,2023-2024
+7. The Forest Queen,"Cornwell, Betsy",,,,Florida,Escambia County Public Schools,2023-2024
+8. Brightly Burning,"Donne, Alexa",,,,Florida,Escambia County Public Schools,2023-2024
 
 books_info_final_four:
-1. To Have or to Be?,"Fromm, Erick",,,,Florida,Escambia County Public Schools,2023-2024
-2. Famous Players: The Mysterious Death of William Desmond Taylor,"Geary, Rick",,,,Florida,Escambia County Public Schools,2023-2024
-3. Woodcuts of Women: Stories,"Gilb, Dagoberto",,,,Florida,Escambia County Public Schools,2023-2024
-4. Graphic Design,"Glaser, Milton",,,,Florida,Escambia County Public Schools,2023-2024
-5. "Guinness Book of World Records, 2000","Glenday, Craig",,,,Florida,Escambia County Public Schools,2023-2024
-6. "Guinness Book of World Records, 2018","Glenday, Craig",,,,Florida,Escambia County Public Schools,2023-2024
-7. "Guinness Book of World Records, 2023","Glenday, Craig",,,,Florida,Escambia County Public Schools,2023-2024
-8. Envy,"Godberson, Anna",,,,Florida,Escambia County Public Schools,2023-2024
-9. Rumors,"Godberson, Anna",,,,Florida,Escambia County Public Schools,2023-2024
-10. Going Bovine,"Gray, Libba",,,,Florida,Escambia County Public Schools,2023-2024
-11. Little Princes: One Man's Promise to Bring Home the Lost Children of Nepal,"Grennan, Conor",,,,Florida,Escambia County Public Schools,2023-2024
-12. Clarity,"Harrington, Kim",,,,Florida,Escambia County Public Schools,2023-2024
-13. Splintered,"Howard, A. G.",,,,Florida,Escambia County Public Schools,2023-2024
-14. Crime and Detection: History and Methods of Torture,"Innes, Brian",,,,Florida,Escambia County Public Schools,2023-2024
-15. That Inevitable Victorian Thing,"Johnston, E. K",,,,Florida,Escambia County Public Schools,2023-2024
-16. Dubliners and A Portrait of the Artist as a Young Man and Other Works,"Joyce, James",,,,Florida,Escambia County Public Schools,2023-2024
-17. The Incredible Adventures of Cinnamon Girl,"Keil, Melissa",,,,Florida,Escambia County Public Schools,2023-2024
-18. Vortex: An Insignia Novel,"Kincaid, S. J.",,,,Florida,Escambia County Public Schools,2023-2024
-19. Leonardo da Vinci,"Krensky, Stephen",,,,Florida,Escambia County Public Schools,2023-2024
-20. Monument 14,"Laybourne, Emmy",,,,Florida,Escambia County Public Schools,2023-2024
-21. What If We Were...,"Lenoir, Axelle",,,,Florida,Escambia County Public Schools,2023-2024
-22. That Hideous Strength: A Modern Fairy-Tale for Grown-Ups,"Lewis, C. S.",,,,Florida,Escambia County Public Schools,2023-2024
-23. "The Treasure Map of Boys: Noel, Jackson, Finn, Hutch, Gideon -- and Me, Ruby Oliver","Lockhart, E.",,,,Florida,Escambia County Public Schools,2023-2024
-24. Giants,"Malam, John",,,,Florida,Escambia County Public Schools,2023-2024
-25. American Royals,"McGee, Katharine",,,,Florida,Escambia County Public Schools,2023-2024
-26. Suck It Up,"Meehl, Brian",,,,Florida,Escambia County Public Schools,2023-2024
-27. "Bloody Jack: Being an Account of the Curious Adventures of Mary ""Jacky"" Faber, Ship's Boy","Meyer, L. A.",,,,Florida,Escambia County Public Schools,2023-2024
-28. Under the Jolly Roger: Being an Account of the Further Nautical Adventures of Jacky Faber,"Meyer, L. A.",,,,Florida,Escambia County Public Schools,2023-2024
-29. New Moon,"Meyer, Stephenie",,,,Florida,Escambia County Public Schools,2023-2024
-30. Twilight,"Meyer, Stephenie",,,,Florida,Escambia County Public Schools,2023-2024
-31. Coping As a Survivor of Violent Crime,"Moe, Barbara A.",,,,Florida,Escambia County Public Schools,2023-2024
-32. Africa: Cultural Atlas For Young People,"Murray, Jocelyn",,,,Florida,Escambia County Public Schools,2023-2024
-33. Cultural Atlas of Africa,"Murray, Jocelyn",,,,Florida,Escambia County Public Schools,2023-2024
-34. Nigeria,"Nnoromele, Salome",,,,Florida,Escambia County Public Schools,2023-2024
-35. 2021 Book of World Records,"O'Brien, Cynthia",,,,Florida,Escambia County Public Schools,2023-2024
-36. "Soul Eater, Vol. 22","Ohkubo, Atsushi",,,,Florida,Escambia County Public Schools,2023-2024
-37. "Soul Eater, Vol. 6","Ohkubo, Atsushi",,,,Florida,Escambia County Public Schools,2023-2024
-38. Stealing Snow,"Paige, D. M.",,,,Florida,Escambia County Public Schools,2023-2024
+1. Crime and Detection: History and Methods of Torture,"Innes, Brian",,,,Florida,Escambia County Public Schools,2023-2024
+2. Dubliners and A Portrait of the Artist as a Young Man and Other Works,"Joyce, James",,,,Florida,Escambia County Public Schools,2023-2024
+3. Suck It Up,"Meehl, Brian",,,,Florida,Escambia County Public Schools,2023-2024
+4. Nigeria,"Nnoromele, Salome",,,,Florida,Escambia County Public Schools,2023-2024
+5. 2021 Book of World Records,"O'Brien, Cynthia",,,,Florida,Escambia County Public Schools,2023-2024
 
 books_info_final_five:
-1. NYPD Red,"Patterson, James","Karp, Marshall",,,Florida,Escambia County Public Schools,2023-2024
-2. "Private: New York, Los Angeles, London, Paris","Patterson, James","Paetro, Maxine",,,Florida,Escambia County Public Schools,2023-2024
-3. Mythology (Eyewitness),"Philip, Neil",,,,Florida,Escambia County Public Schools,2023-2024
-4. Dark Days,"Ponti, James",,,,Florida,Escambia County Public Schools,2023-2024
-5. Dead City,"Ponti, James",,,,Florida,Escambia County Public Schools,2023-2024
-6. Boy 21,"Quick, Matthew",,,,Florida,Escambia County Public Schools,2023-2024
-7. Invisibility,"Robertson, Andrea","Levithan, David",,,Florida,Escambia County Public Schools,2023-2024
-8. The Conjurer's Riddle,"Robertson, Andrea",,,,Florida,Escambia County Public Schools,2023-2024
-9. The Inventor's Secret,"Robertson, Andrea",,,,Florida,Escambia County Public Schools,2023-2024
-10. Insurgent,"Roth, Veronica",,,,Florida,Escambia County Public Schools,2023-2024
-11. "Black Bird, Vol. 12","Sakurakōji, Kanoko",,,,Florida,Escambia County Public Schools,2023-2024
-12. "Black Bird, Vol. 14","Sakurakōji, Kanoko",,,,Florida,Escambia County Public Schools,2023-2024
-13. "Black Bird, Vol. 15","Sakurakōji, Kanoko",,,,Florida,Escambia County Public Schools,2023-2024
-14. Pablo Picasso,"Scarborough, Kate",,,,Florida,Escambia County Public Schools,2023-2024
-15. Twisted (GS),"Showalter, Gina",,,,Florida,Escambia County Public Schools,2023-2024
-16. Sadie,"Summers, Courtney",,,,Florida,Escambia County Public Schools,2023-2024
-17. "The Same River Twice: Honoring the Difficult: A Meditation on Life, Spirit and Art, and the Making of the Film The Color Purple Ten Years Later","Walker, Alice",,,,Florida,Escambia County Public Schools,2023-2024
-18. Child Abuse,"Williams, Heidi",,,,Florida,Escambia County Public Schools,2023-2024
-19. Messing Around with Drinking Straw Construction: A Children's Museum Activisty Book,"Zubrowski, Bernie","Fleischer, Stephanie",,,Florida,Escambia County Public Schools,2023-2024
-20. Stitches: A Memior,"Small, David",,,,Florida,Indian River County Schools,2023-2024
-21. Banned Book Club,"Sook, Kim Hyun","Estrada, Ryan","Ko, Hyung-Ju",,Florida,Indian River County Schools,2023-2024
-22. Ace of Spades,"Àbíké-Íyímídé, Faridah",,,,Florida,Lee County Schools,2023-2024
-23. "One Nation Under Taught: Solving America's Science, Technology, Engineering and Math Crisis","Bertram, Vince M.",,,,Florida,Lee County Schools,2023-2024
-24. Nevada's Red Rock Canyon : The Story Behind the Scenery,"Madison, Cheri C.",,,,Florida,Lee County Schools,2023-2024
-25. "Rainbow Family Collections: Selecting and Using Children's Books with Lesbian, Gay, Bisexual, Transgender, and Queer Content","Naidoo, Jamie Campbell",,,,Florida,Lee County Schools,2023-2024
-26. Gabriella and Alexander: Two Tales of Palace Intrigue and Royal Romance,"Roberts, Nora",,,,Florida,Lee County Schools,2023-2024
-27. For Colored Girls Who Have Considered Suicide / When the Rainbow Is Enuf: A Choreopoem,"Shange, Ntozake",,,,Florida,Lee County Schools,2023-2024
-28. New Sudden Fiction: Short-Short Stories from America and Beyond,"Shapard, Robert","Thomas, James",,,Florida,Lee County Schools,2023-2024
-29. Sudden Fiction (Continued): 60 New Short-Short Stories,"Shapard, Robert","Thomas, James",,,Florida,Lee County Schools,2023-2024
-30. "Berlin Diary: The Journal of a Foreign Correspondent 1934-1941, an Unparalleled Eyewitness Account of Hitler's German","Shirer, William",,,,Florida,Lee County Schools,2023-2024
-31. Wanderlust: A Beautiful Americans Novel (LS),"Silag, Lucy",,,,Florida,Lee County Schools,2023-2024
+1. "Private: New York, Los Angeles, London, Paris","Patterson, James","Paetro, Maxine",,,Florida,Escambia County Public Schools,2023-2024
+2. "The Same River Twice: Honoring the Difficult: A Meditation on Life, Spirit and Art, and the Making of the Film The Color Purple Ten Years Later","Walker, Alice",,,,Florida,Escambia County Public Schools,2023-2024
+3. Gabriella and Alexander: Two Tales of Palace Intrigue and Royal Romance,"Roberts, Nora",,,,Florida,Lee County Schools,2023-2024
 
 books_info_final_six:
-1. Midnight at the Bright Ideas Bookstore,"Sullivan, Matthew J.",,,,Florida,Lee County Schools,2023-2024
-2. Big Stone Gap,"Trigiani, Adriana",,,,Florida,Lee County Schools,2023-2024
-3. The Third Side: Why We Fight and How We Can Stop,"Ury, William L.",,,,Florida,Lee County Schools,2023-2024
-4. Candide,Voltaire,,,,Florida,Lee County Schools,2023-2024
-5. The Crown of Eden,"Williams, T. M.",,,,Florida,Lee County Schools,2023-2024
-6. The Best American Short Stories 2015,"Boyle, T.C.",,,,Florida,Orange County Public Schools,2023-2024
-7. Pieces: A Collection of New Voices,"Chbosky, Stephen",,,,Florida,Orange County Public Schools,2023-2024
-8. Postmortem: A Mystery Introducing Dr. Kay Scarpetta,"Cornwell, Patricia",,,,Florida,Orange County Public Schools,2023-2024
-9. Scarpetta,"Cornwell, Patricia",,,,Florida,Orange County Public Schools,2023-2024
-10. Paso a Paso,"Echeverria, José Antonio",,,,Florida,Orange County Public Schools,2023-2024
-11. The Authority: Book One,"Ellis, Warren",,"Hitch, Bryan",,Florida,Orange County Public Schools,2023-2024
-12. "Eat, Pray, Love: One Women's Search for Everything Across Italy, India and Indonesia","Gilbert, Elizabeth",,,,Florida,Orange County Public Schools,2023-2024
-13. The Handsome Girl and Her Beautiful Boy,"Gottfred, B. T.",,,,Florida,Orange County Public Schools,2023-2024
-14. The Changeling,"Horsley, Kate",,,,Florida,Orange County Public Schools,2023-2024
-15. Fifty Shades of Grey,"James, E. L.",,,,Florida,Orange County Public Schools,2023-2024
-16. Fifty Shades Darker,"James, E.L.",,,,Florida,Orange County Public Schools,2023-2024
-17. "Modern Love: Revised and Updated: True Stories of Love Loss, and Redemption","Jones, Daniel","Rannells, Andrew; Waldman, Ayelet; Rosenthal, Amy Krouse; Chambers, Veronica; Copaken, Deborah; Korelitz, Jean Hanff; Ellis, Trey; Hood, Ann; Kahn, Howie; Hung, Mindy; Cheney, Terri; Leary, Ann; Smith, Larry",,,Florida,Orange County Public Schools,2023-2024
-18. The Book of Longings,"Kidd, Sue Monk",,,,Florida,Orange County Public Schools,2023-2024
-19. "The Walking Dead, Vol. 2: Miles Behind Us","Kirkman, Robert",,"Adlard, Charlie; Rathburn, Cliff",,Florida,Orange County Public Schools,2023-2024
-20. City of Night,"Koontz, Dean R.",,,,Florida,Orange County Public Schools,2023-2024
-21. The Poppy War,"Kuang, R. F.",,,,Florida,Orange County Public Schools,2023-2024
-22. Talking in the Dark: A Poetry Memoir,"Merrell, Billy",,,,Florida,Orange County Public Schools,2023-2024
-23. The Authority (1999-2002): Book Two,"Miller, Mark",,"Quietly, Frank",,Florida,Orange County Public Schools,2023-2024
-24. "Camp Confidential (Series, Title Not Specified)","Morgan, Melissa J.",,,,Florida,Orange County Public Schools,2023-2024
-25. "Thirst No. 1: Human Urges, Fatal Consequences","Pike, Christopher",,,,Florida,Orange County Public Schools,2023-2024
-26. "Thirst No. 2: Deepest Desire, Instant Remorse","Pike, Christopher",,,,Florida,Orange County Public Schools,2023-2024
-27. The Book of Dust: La Belle Sauvage,"Pullman, Philip",,,,Florida,Orange County Public Schools,2023-2024
-28. Stone Fox,"Reynolder, John",,"Hargreaves, Greg",,Florida,Orange County Public Schools,2023-2024
-29. Alichino,"Shurei, Kouyu",,,,Florida,Orange County Public Schools,2023-2024
-30. Stay In Line,"Slaterguess, Teddy","Fiammenghi, Gioia: Burns, Marilyn",,,Florida,Orange County Public Schools,2023-2024
+1. Paso a Paso,"Echeverria, José Antonio",,,,Florida,Orange County Public Schools,2023-2024
+2. "Camp Confidential (Series, Title Not Specified)","Morgan, Melissa J.",,,,Florida,Orange County Public Schools,2023-2024
 
 books_info_final_seven
-1. "American Colonies: The Settling of North America, Vo1. 1","Taylor, Alan",,,,Florida,Orange County Public Schools,2023-2024
-2. "Sigh, Gone: A Misfit's Memoir of Great Books, Punk Rock, and the Fight to Fit In","Tran, Phuc",,,,Florida,Orange County Public Schools,2023-2024
-3. The RattleRat,"Van de Wetering, Janwillem",,,,Florida,Orange County Public Schools,2023-2024
-4. Shojo Beat,Viz Media,,,,Florida,Orange County Public Schools,2023-2024
-5. Numb8rs,"Ward, Rachel",,,,Florida,Orange County Public Schools,2023-2024
-6. Ma Mere L'oye,"Winchester, Linda",,,,Florida,Orange County Public Schools,2023-2024
-7. "The Professor and the Madman: A Tale of Murder, Insanity, and the Making of the Oxford English Dictionary","Winchester, Simon",,,,Florida,Orange County Public Schools,2023-2024
-8. Kiss and Tell,"Khorram, Adib",,,,Florida,Polk County Public Schools,2023-2024
-9. Ripley's Believe It or Not!: Shatter Your Senses!,"Tibbals, Geoff",,,,Florida,Sarasota County Schools,2023-2024
-10. Flirtin' With the Monster: Your Favorite Authors on Ellen Hopkins' Crank and Glass,"Hopkins, Ellen",,,,Florida,Seminole County Public Schools,2023-2024
-11. "Assassination Classroom, Vol. 4","Matsui, Yūsei",,,,Florida,Seminole County Public Schools,2023-2024
-12. "Assassination Classroom, Vol. 7","Matsui, Yūsei",,,,Florida,Seminole County Public Schools,2023-2024
-13. "Olympians (Series, not volume specific)","O'Connor, George",,"Alizadeh, Kip",,Florida,St. John's County School District,2023-2024
-14. Stolen Girl,"Skyrpuch, Marsha Forchuk",,,,Florida,St. John's County School District,2023-2024
-15. The War Below,"Skyrpuch, Marsha Forchuk",,,,Florida,St. John's County School District,2023-2024
-16. Color Outside the Lines: Stories About Love,"Mandanna, Sangu","Ahmed, Samira; Chapman, Elsie; Gibaldi, Lauren; Kang, Lydia; Keil, Michelle Ruiz; Lee, Lori M.; McKinney, L.L.; McLemore, Anna-Marie; Paige, Danielle; Riazi, Karuna; Richmond, Caroline Tung; Silvera, Adam; Sim, Tara; Smith, Eric; Zekas, Kelly; Shanker, Tarun",,,Georgia,Cobb County School District,2023-2024
-17. Ophelia After All,"Racquel, Marie",,,,Georgia,Cobb County School District,2023-2024
-18. WeirDo Series: Crazy Weird!,"Do, Anh",,"Faber, Jules",,Iowa,Adel DeSoto Minburn Community School District,2023-2024
-19. WeirDo Series: Hopping Weird!,"Do, Anh",,"Faber, Jules",,Iowa,Adel DeSoto Minburn Community School District,2023-2024
-20. WeirDo Series: Planet Weird,"Do, Anh",,"Faber, Jules",,Iowa,Adel DeSoto Minburn Community School District,2023-2024
-21. WeirDo Series: Really Weird!,"Do, Anh",,"Faber, Jules",,Iowa,Adel DeSoto Minburn Community School District,2023-2024
-22. WeirDo Series: Splashy Weird!,"Do, Anh",,"Faber, Jules",,Iowa,Adel DeSoto Minburn Community School District,2023-2024
-23. WeirDo Series: Tasty Weird!,"Do, Anh",,"Faber, Jules",,Iowa,Adel DeSoto Minburn Community School District,2023-2024
-24. WeirDo Series: WeirDo,"Do, Anh",,"Faber, Jules",,Iowa,Adel DeSoto Minburn Community School District,2023-2024
-25. WeirDo Series: Weirdomania!,"Do, Anh",,"Faber, Jules",,Iowa,Adel DeSoto Minburn Community School District,2023-2024
-26. A Different Season,Anonymous,,,,Iowa,Alta-Aurelia Community Schools,2023-2024
-27. Being You,Anonymous,,,,Iowa,Alta-Aurelia Community Schools,2023-2024
-28. Feminism,Anonymous,,,,Iowa,Alta-Aurelia Community Schools,2023-2024
-29. Having Young,"Green, Simon James",,,,Iowa,Alta-Aurelia Community Schools,2023-2024
-30. Marriage Rights and Gay Rights: Interpretating the Constitution,"Hollander, Barbara Gottfried",,,,Iowa,Alta-Aurelia Community Schools,2023-2024
-31. "Hey, Kiddo: How I Lost My Mother, Found My Father, and Dealt with Family Addiction","Krosoczka, Jarrett J.",,,,Iowa,Alta-Aurelia Community Schools,2023-2024
-32. Boys I Know,"Gracia, Anna",,,,Iowa,Bondurant-Farrar Community School District,2023-2024
-33. The Other Half of Happy,"Balcarel, Rebecca",,,,Iowa,Clear Creek-Amana Community School District,2023-2024
-34. "Drumroll, Please","Bigelow, Lisa Jenn",,,,Iowa,Clear Creek-Amana Community School District,2023-2024
-35. My Fate According to the Butterfly,Gail Villanueva,,,,Iowa,Clear Creek-Amana Community School District,2023-2024
-36. Vanilla,"Merrell, Bill",,,,Iowa,Clear Creek-Amana Community School District,2023-2024
-37. Fence,"Pascat, C.S.",,,,Iowa,Clear Creek-Amana Community School District,2023-2024
-38. Fence: Rivals,"Pascat, C.S.",,,,Iowa,Clear Creek-Amana Community School District,2023-2024
-39. A Game of Fox and Squirrels,"Reese, Jenn",,,,Iowa,Clear Creek-Amana Community School District,2023-2024
-40. Are These My Basoomas I See Before Me: Fab Final Confessions of Georgia Nicolson,"Rennison, Louise",,,,Iowa,Clear Creek-Amana Community School District,2023-2024
+1. Ma Mere L'oye,"Winchester, Linda",,,,Florida,Orange County Public Schools,2023-2024
+2. "Olympians (Series, not volume specific)","O'Connor, George",,"Alizadeh, Kip",,Florida,St. John's County School District,2023-2024
+3. A Different Season,Anonymous,,,,Iowa,Alta-Aurelia Community Schools,2023-2024
+4. Being You,Anonymous,,,,Iowa,Alta-Aurelia Community Schools,2023-2024
+5. Feminism,Anonymous,,,,Iowa,Alta-Aurelia Community Schools,2023-2024
+6. Having Young,"Green, Simon James",,,,Iowa,Alta-Aurelia Community Schools,2023-2024
 
 books_info_final_eight:
-1. Beware the Kitten Holy,"Stevenson, N.D.",,,,Iowa,Clear Creek-Amana Community School District,2023-2024
-2. Friendship to the Max,"Stevenson, N.D.",,,,Iowa,Clear Creek-Amana Community School District,2023-2024
-3. Peppermint Coach Crushes,"Nielson, Laney",,,,Iowa,Dallas Center-Grimes Community School District,2023-2024
-4. "Love, Penelope: Letters from a Big Sister Who Knows About Life","Rocklin, Joanne",,,,Iowa,Dallas Center-Grimes Community School District,2023-2024
-5. Sexual Abuse: Let's Talk About It,"Hyde, Margaret O.",,,,Iowa,East Union Community School District,2023-2024
-6. How Moon Fuentez Fell in Love with the Universe,"Gilliland, Raquel Vazquez",,,,Iowa,Grundy Center Community School District,2023-2024
-7. Descender,"Lemire, Jeff",,,,Iowa,Mid-Prairie Community School District,2023-2024
-8. Breathless (AM),"McCullouch, Amy",,,,Iowa,Mid-Prairie Community School District,2023-2024
-9. Online Pornography,"Nelson, David E.",,,,Iowa,Nevada Community School District,2023-2024
-10. Gay and Lesbian Parents,"Fields, Juliana",,,,Iowa,Norwalk Community School District,2023-2024
-11. My Life as a Diamond,"Manzer, Jenny",,,,Iowa,Norwalk Community School District,2023-2024
-12. Rainbow Revolutionaries: Fifty LGBTQ+ People Who Made History,"Prager, Sarah",,"Papworth, Sarah",,Iowa,Norwalk Community School District,2023-2024
-13. "The Earth, My Butt, and Other Big Round Things","Mackler, Carolyn",,,,Iowa,Red Oak School District,2023-2024
-14. The Voices of Rape,"Bode, Janet",,,,Iowa,South Tama County Community School District,2023-2024
-15. "Saga, Vol. 1","Vaughan, Brian K.",,"Staples, Fiona",,Iowa,Urbandale Community School District,2023-2024
-16. Ben Y and the Ghost in the Machine: The Kids Under the Stairs,"Holt, K. A.",,,,Iowa,Van Meter Community School District,2023-2024
-17. Truancy City,"Fukui, Isdamu",,,,Iowa,WACO Community School District,2023-2024
-18. Truancy Origins,"Fukui, Isdamu",,,,Iowa,WACO Community School District,2023-2024
-19. Fealess Fourteen,"Evanovich, Janet",,,,Iowa,West Burlington Independent School District,2023-2024
-20. Two More Days: An Anthology,"Hoover, Colleen",,,,Iowa,West Des Moines Community Schools,2023-2024
-21. The Luckiest MILF in Brooklyn,"Melnick, Lynn",,,,Iowa,West Des Moines Community Schools,2023-2024
-22. "Opposite Sex: Gay Men on Lesbians, Lesbians on Gay Men","Miles, Sara",,,,Iowa,West Des Moines Community Schools,2023-2024
-23. Striving for Equality: LGBTQ Athletes Claim the Field,"Cronn-Mills, Kirstin",,,,Kentucky,Boyle County Schools,2023-2024
-24. Reproductive Rights,"Cunningham, Anne",,,,Kentucky,Boyle County Schools,2023-2024
-25. The Lotterys Plus One,"Donoghue, Emma",,"Hadilaksono, Caroline",,Kentucky,Boyle County Schools,2023-2024
-26. Gender in the 21st Century,"Eboch, M.M.",,,,Kentucky,Boyle County Schools,2023-2024
-27. Sexual Consent,"Gitlin, Martin",,,,Kentucky,Boyle County Schools,2023-2024
-28. "Dune: House Atreides, Vol. 4 (The Graphic Novel)","Herbert, Brian","Anderson, Kevin J.","De Felici, Lorenzo; Pramanik, Dev; Guimarães, Alex",,Kentucky,Boyle County Schools,2023-2024
-29. Male/Female Roles (BL),"Leone, Bruno",,,,Kentucky,Boyle County Schools,2023-2024
-30. Playing a Part,"Wilke, Daria",,,"Schwartz, Marian",Kentucky,Boyle County Schools,2023-2024
-31. In Memoiriam,"Winn, Alice",,,,Kentucky,Boyle County Schools,2023-2024
-32. Money Boy,"Yee, Paul",,,,Kentucky,Boyle County Schools,2023-2024
-33. Murder in Mayberry: Death and Mayhem in a Small Town,"Branson, Mary Kinney","Branson, Jack",,,Maine,Hermon School Department,2023-2024
-34. "Portrait of a Monster: Joran van der Sloot, A Murder in Peru, and the Natalee Holloway Mystery","Pulitzer, Lisa Beth","Thompson, Cole",,,Maine,Hermon School Department,2023-2024
-35. "Sex is a Funny Word: A Book about Bodies, Feelings, and YOU","Silverberg, Cory",,"Smyth, Fiona",,Maryland,Caroll County School District,2023-2024
-36. Woke: A Young Poets Call to Justice,"Browne, Mahogany L.","Acevedo, Elizabeth; Gatwood, Olivia","Taylor III, Theodore",,Massachusetts,North Attleborough Public Schools,2023-2024
-37. Prince of Persia,"Mechner, Jordan","Sina, A. B.","Pham, LeUyen; Puvilland, Alex",,Missouri,Cameron R-1 School District,2023-2024
-38. "Magical Boy, Vol. 1","Kao, The",,,,Ohio,Troy City Schools,2023-2024
-39. The Pretty Committee Strikes Back,"Harrison, L.",,,,Texas,Conroe Independent School District,2023-2024
-40. "Be Gay, Do Comics: Queer History, Memoir, and Satire",The Nib,,,,Texas,Conroe Independent School District,2023-2024
-41. Same Difference,"Vivan, Siobhan",,,,Texas,Conroe Independent School District,2023-2024
-42. The Dead Inside,"Etler, Cyndy Drew",,,,Texas,Fort Worth Independent School District,2023-2024
-43. "Monstress, Vol. 1: Awakening","Liu, Marjorie",,"Takeda, Sana",,Texas,Fort Worth Independent School District,2023-2024
-44. "Monstress, Vol. 2: The Blood","Liu, Marjorie",,"Takeda, Sana",,Texas,Fort Worth Independent School District,2023-2024
-45. Nine Months Luciana,"Wells, Maggie",,,,Texas,Katy Independent School District,2023-2024
-46. Feeling Wrong in Your Own Body: Understanding What It Means to Be Transgender,"Seba, Jaime A.",,,,Texas,Klein Independent School District,2023-2024
+1. Online Pornography,"Nelson, David E.",,,,Iowa,Nevada Community School District,2023-2024
+2. Two More Days: An Anthology,"Hoover, Colleen",,,,Iowa,West Des Moines Community Schools,2023-2024
+3. The Luckiest MILF in Brooklyn,"Melnick, Lynn",,,,Iowa,West Des Moines Community Schools,2023-2024
+4. "Be Gay, Do Comics: Queer History, Memoir, and Satire",The Nib,,,,Texas,Conroe Independent School District,2023-2024
 
 books_info_final_nine:
-1. The American Spirit: Meeting the Challenge of September 11,Editors of One Nation,,,,Texas,North East Independent School District,2023-2024
-2. "Can We Talk About Consent: A Book About Freedom, Choices and Agreement","Hancock, Justin",,,,Texas,North East Independent School District,2023-2024
-3. "Tokyo Ghoul (Series, Title Not Specified)","Ishida, Sui",,,,Texas,North East Independent School District,2023-2024
-4. "Monstress (Series, Title Not Specified)","Liu, Marjorie","Takeda, Sana",,,Texas,North East Independent School District,2023-2024
-5. The Degenerates,"Mann, Jennifer Ann / Mann, J. Albert",,,,Texas,North East Independent School District,2023-2024
-6. Hoop City: Baltimore,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-7. Hoop City: Chicago,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-8. Hoop City: Detroit,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-9. Hoop City: Los Angeles,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-10. Hoop City: New York City,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-11. "Hoop City: Washington, D.C","Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-12. Texas Fridays: Austin,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-13. Texas Fridays: Dallas,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-14. Texas Fridays: El Paso,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-15. Texas Fridays: Houston,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-16. Texas Fridays: Odessa,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-17. Texas Fridays: San Antonio,"Moussavi, Sam",,,,Texas,North East Independent School District,2023-2024
-18. "A Silent Voice (Series, Title Not Specified)","Ōima, Yoshitoki",,,,Texas,North East Independent School District,2023-2024
-19. Replica: Gemma Lyra,"Oliver, Lauren",,,,Texas,North East Independent School District,2023-2024
-20. "One-Punch Man (Series, Title Not Specified)",ONE,,"Murata, Yusuke",,Texas,North East Independent School District,2023-2024
-21. Coping with Breakups and Jealousy,"Orr, Tamra B.",,,,Texas,North East Independent School District,2023-2024
-22. Crazy House,"Patterson, James",,,,Texas,North East Independent School District,2023-2024
-23. The First 7,"Pohl, Laura",,,,Texas,North East Independent School District,2023-2024
-24. The Last 8,"Pohl, Laura",,,,Texas,North East Independent School District,2023-2024
-25. Dealing With Dating and Romance,"Poole, H. W.",,,,Texas,North East Independent School District,2023-2024
-26. The Promised Neverland,"Shirai, Kaiu",,"Demizu, Posuka",,Texas,North East Independent School District,2023-2024
-27. No Child's Game: Reality TV 2083,"White, Andrea",,,,Texas,North East Independent School District,2023-2024
-28. Kiss Number 8,"Venable, Colleen A. F.",,"Crenshaw, Ellen T.",,Virginia,Lexington City Schools,2023-2024
-29. "I’d Tell You I Love You, But Then I’d Have Kill You","Carter, Ally",,,,Wisconsin,Elkhorn Area School District,2023-2024
-30. An Age of License: A Travelogue,"Knisley, Lucy",,,,Wisconsin,Elkhorn Area School District,2023-2024
-31. Dorothy Must Die,"Paige, Daniella",,,,Wisconsin,Elkhorn Area School District,2023-2024
-32. Help for the Haunted Heroine,"Searles, John",,,,Wisconsin,Elkhorn Area School District,2023-2024
-33. The Guernsey Literary and Potato Peel Pie Society,"Shaffer, Mary Anne","Barrows, Annie",,,Wisconsin,Elkhorn Area School District,2023-2024
-34. The Deep and Dark Blue,"Smith, Niki",,,,Wisconsin,Elkhorn Area School District,2023-2024
-35. Raven Boys,"Stiefvater, Maggie",,,,Wisconsin,Elkhorn Area School District,2023-2024
-36. Giant Days: Not On the Test Edition Vol. 1 - Fall Semester,"Allison, John",,"Treiman, Lissa; Sarin, Max",,Missouri,Wentzville School District,2022-2023
-37. Giant Days: Not On the Test Edition Vol. 2 - Winter Semester,"Allison, John",,"Treiman, Lissa; Sarin, Max; Fleming, Liz",,Missouri,Wentzville School District,2022-2023
-38. "One Person, No Vote (YA edition): How Not All Voters Are Treated Equally","Anderson, Carol","Bolden, Tonya",,,Florida,Clay County School District,2022-2023
-39. Speak: Chinese Edition,"Anderson, Laurie Halse",,,Mu Ma Wen Hua (publisher),Florida,Martin County Schools,2022-2023
-40. Noah's Ark: Words from the Book of Genesis,Anonymous,,"Ray, Jane",,Florida,Brevard Public Schools,2022-2023
-41. Read with Me Bible: An NIV Story Bible for Children,Anonymous,,"Jones, Dennis",,Florida,Brevard Public Schools,2022-2023
-42. The Beginner's Bible: Timeless Bible Stories,Anonymous,,"Pulley, Kelly",,Florida,Brevard Public Schools,2022-2023
-43. The New American Bible,Anonymous,,,,Pennsylvania,Penncrest School District,2022-2023
-44. David and Goliath (MA),"Auld, Mary",,"Mayo, Diana",,Florida,Brevard Public Schools,2022-2023
-45. The Book of Magic,"Barron, T. A.",,,,Texas,Frisco Independent School District,2022-2023
-46. The Ten Bridesmaids: Matthew 25: 1-13,"Berendes, Mary",,"Squier, Robert",,Florida,Brevard Public Schools,2022-2023
-47. M.L.K.: Journey of a King,"Bolden, Tonya",,,,Texas,Frisco Independent School District,2022-2023
-48. A Quick & Easy Guide to They/Them Pronouns,"Bongiovanni, Archie","Jimerson, Tristan",,,Florida,Clay County School District,2022-2023
-49. Hope Nation: YA Authors Share Personal Moments of Inspiration,"Brock, Rose","Abawi, Atia; Bryant, Howard; Carter, Ally; Condie, Ally; Gonzalez, Christina Diaz; Garber, Romina; Gregorio, I.W.; Hart, Kate; Kiely, Brendan; London, Alex; Lu, Marie; Ahdieh, Renée; Reynolds, Jason; Stone, Nic; Thomas, Angie; Sanchez, Jenny Torres; Yoon, Nicola; Forman, Gayle; Levithan, David; Zentner, Jeff; Saeed, Aisha; Dashner, James; Bray, Libba; Murphy, Julie",,,Florida,Clay County School District,2022-2023
-50. The Story of Job,"Brodsky, Beverly",,,,Florida,Brevard Public Schools,2022-2023
-51. "Bone Parish, Vol. 2","Bunn, Cullen",,"Scharf, Jonas; Guimaraes, Alex",,Missouri,Wentzville School District,2022-2023
-52. "Bone Parish, Vol. 3","Bunn, Cullen",,"Scharf, Jonas; Guimaraes, Alex",,Missouri,Wentzville School District,2022-2023
-53. The Essential Hieronymus Bosch,"Campbell, W. John",,,,Missouri,Wentzville School District,2022-2023
-54. All Because You Matter,"Charles, Tami",,"Collier, Bryan",,Florida,Clay County School District,2022-2023
-55. The Christmas Story,"Chorao, Kay",,,,Florida,Brevard Public Schools,2022-2023
-56. Joe Hill's The Cape: 1969,"Ciaramella, Jason","Hill, Joe","Nelson, Daniel; Howard, Zach",,Missouri,Wentzville School District,2022-2023
-57. Dash & Lily's Book of Dares,"Cohn, Rachel","Levithan, David",,,Florida,Clay County School District,2022-2023
-58. Little & Lion,"Colbert, Brandy",,,,Florida,Clay County School District,2022-2023
-59. "Student Reader Grade 3 Unit 6: Gods, Giants, and Dwarves",CoreKnowledge,,,,Virginia,Patrick Public Schools,2022-2023
-60. MISSING BOOK??? ,,,,,Texas,Frisco Independent School District,2022-2023
-61. The Adventures of Honey and Leon,"Cumming, Alan","Shaffer, Grant",,,Florida,Clay County School District,2022-2023
-62. Art: Annotated Guides,"Cumming, Robert",,,,Missouri,Wentzville School District,2022-2023
-63. The Bible for Young Children,"Delval, Marie-Hélène",,"Götting, Jean-Claude",,Florida,Brevard Public Schools,2022-2023
-64. To Every Thing There is a Season: Verses from Ecclesiastes,"Dillon, Diane","Dillon, Leo",,,Florida,Brevard Public Schools,2022-2023
-65. Full Bloom: The Art and Life of Georgia O' Keefe,"Drohojowska-Philip, Hunter",,,,Missouri,Wentzville School District,2022-2023
-66. Parenthesis,"Durand, Elodie",,,,Missouri,Wentzville School District,2022-2023
-67. Reader's Digest Family Guide to the Bible,Editors of the Reader's Digest,,,,Pennsylvania,Penncrest School District,2022-2023
-68. "Spy x Family, Vol. 1","Endo, Tatsuya",,,,Texas,Frisco Independent School District,2022-2023
-69. The Story of Christmas (PF),"Fehlner, Paul",,,,Florida,Brevard Public Schools,2022-2023
-70. Animals of the Bible,"Fish, Helen Dean",,"Lathrop, Dorothy P.",,Florida,Brevard Public Schools,2022-2023
-71. David and Goliath (LF),"Fisher, Leonard Everett",,,,Florida,Brevard Public Schools,2022-2023
-72. The Seven Days of Creation,"Fisher, Leonard Everett",,,,Florida,Brevard Public Schools,2022-2023
-73. The Apparatus of Death - The Third Reich,"Flaherty, Thomas",,,,Missouri,Wentzville School District,2022-2023
-74. The History of Western Painting,"Forte, Virginia",,,,Missouri,Wentzville School District,2022-2023
-75. Maid Sama,"Fujiwara, Hiro",,,,Pennsylvania,Penncrest School District,2022-2023
-76. A Quick & Easy Guide to Queer & Trans Identities,"G., Mady","Zuckerberg, J. R.",,,Florida,Clay County School District,2022-2023
+1. "Tokyo Ghoul (Series, Title Not Specified)","Ishida, Sui",,,,Texas,North East Independent School District,2023-2024
+2. "Monstress (Series, Title Not Specified)","Liu, Marjorie","Takeda, Sana",,,Texas,North East Independent School District,2023-2024
+3. "A Silent Voice (Series, Title Not Specified)","Ōima, Yoshitoki",,,,Texas,North East Independent School District,2023-2024
+4. "One-Punch Man (Series, Title Not Specified)",ONE,,"Murata, Yusuke",,Texas,North East Independent School District,2023-2024
+5. Giant Days: Not On the Test Edition Vol. 1 - Fall Semester,"Allison, John",,"Treiman, Lissa; Sarin, Max",,Missouri,Wentzville School District,2022-2023
+6. The Christmas Story,"Chorao, Kay",,,,Florida,Brevard Public Schools,2022-2023
+7. "Student Reader Grade 3 Unit 6: Gods, Giants, and Dwarves",CoreKnowledge,,,,Virginia,Patrick Public Schools,2022-2023
+8. MISSING BOOK??? ,,,,,Texas,Frisco Independent School District,2022-2023
+9. David and Goliath (LF),"Fisher, Leonard Everett",,,,Florida,Brevard Public Schools,2022-2023
+10. The Seven Days of Creation,"Fisher, Leonard Everett",,,,Florida,Brevard Public Schools,2022-2023
+11. The Apparatus of Death - The Third Reich,"Flaherty, Thomas",,,,Missouri,Wentzville School District,2022-2023
 
 books_info_final_ten:
-1. Silent Christmas,"Goffin, Josse",,,,Florida,Brevard Public Schools,2022-2023
-2. A Gift for a Ghost,"González, Borja",,,"Douglas, Lee",Missouri,Wentzville School District,2022-2023
-3. Maiden and Princess,"Haack, Daniel","Galupo, Isabel","Human, Becca",,Florida,Escambia County Public Schools,2022-2023
-4. "Literary Newsmakers for Students, Vol. 1","Hacht, Anne Marie",,,,Florida,Clay County School District,2022-2023
-5. Russian Hacking in American Elections (Special Reports),"Harris, Duchess","Lusted, Marcia Amidon",,,Florida,Clay County School District,2022-2023
-6. 13 Art Inventions Children Show Know,"Heine, Florian",,,,Florida,Brevard Public Schools,2022-2023
-7. Locke & Key Vol. 1: Welcomeome To Lovecraft,"Hill, Joe",,"Rodriquez, Gabriel",,Missouri,Wentzville School District,2022-2023
-8. "Locke & Key, Vol. 5: Clockworks","Hill, Joe",,"Rodriquez, Gabriel",,Missouri,Wentzville School District,2022-2023
-9. "Locke & Key, Vol. 6: Alpha & Omega","Hill, Joe",,"Rodriquez, Gabriel",,Missouri,Wentzville School District,2022-2023
-10. "Novels for Students, Vol. 60","Hill, Melissa Sue","Lee, Michelle",,,Florida,Clay County School District,2022-2023
-11. "Novels for Students, Vol. 61","Hill, Melissa Sue","Lee, Michelle",,,Florida,Clay County School District,2022-2023
-12. Gross Gods,"Hoena, Blake",,"Stevanovic, Ivica",,Florida,Duval County Public Schools,2022-2023
-13. Parables: Stories Jesus Told,"Hoffman, Mary",,"Morris, Jackie",,Florida,Brevard Public Schools,2022-2023
-14. All-Action Classics No. 3: The Odyssey,Homer,"Mucci, Tim","Caldwell, Ben; Tenderini, Emanuel; Lacy, Rick",,Missouri,Wentzville School District,2022-2023
-15. "Troublemaker for Justice: The Story of Bayard Rustin, the Man Behind the March on Washington","Houtman, Jacqueline","Naegle, Walter; Long, Michael G.",,,Texas,Frisco Independent School District,2022-2023
-16. "The Talk: Conversations about Race, Love and Truth","Hudson, Wade","Hudson, Cheryl Willis",,,Florida,School District of Manatee County,2022-2023
-17. "We Rise, We Resist, We Raise our Voices","Hudson, Wade","Hudson, Cheryl Willis",,,Florida,Clay County School District,2022-2023
-18. Blackbird: Book 1 The Great Beast,"Humphries, Sam",,"Bartel, Jen",,Missouri,Wentzville School District,2022-2023
-19. "The Walking Dead: A Continuing Story of Survival Horror, Book 10","Kirkman, Robert",,"Adlard, Charlie; Gaudiano, Stefano; Rathburn, Cliff",,Missouri,Wentzville School District,2022-2023
-20. "The Walking Dead: A Continuing Story of Survival Horror, Book 4","Kirkman, Robert",,"Adlard, Charlie; Rathburn, Cliff",,Missouri,Wentzville School District,2022-2023
-21. "The Walking Dead: A Continuing Story of Survival Horror, Book 7","Kirkman, Robert",,"Adlard, Charlie",,Missouri,Wentzville School District,2022-2023
-22. "Karakuridoji Ultimo, Vol. 1","Lee, Stan",,"Takei, Hiroyuki",,Pennsylvania,Penncrest School District,2022-2023
-23. Secret Origins,"Lemire, Jeff",,"Ormston, Dean; Stewart, Dave",,Missouri,Wentzville School District,2022-2023
-24. "Coyotes, Vol. 1","Lewis, Sean",,"Yarsky, Caitlin",,Missouri,Wentzville School District,2022-2023
-25. "Coyotes, Vol. 2","Lewis, Sean",,"Yarsky, Caitlin",,Missouri,Wentzville School District,2022-2023
-26. Thanksgiving Poems,"Livingston, Myra Cohn",,"Gammell, Stephen",,Florida,Brevard Public Schools,2022-2023
-27. "Novels for Students, Vol. 55","Mallegg, Kristin",,,,Florida,Clay County School District,2022-2023
-28. "Assassination Classroom, Vol. 11","Matsui, Yūsei",,,,Florida,Indian River County Schools,2022-2023
-29. "Assassination Classroom, Vol. 21","Matsui, Yūsei",,,,Florida,Indian River County Schools,2022-2023
-30. Pioneers of LGBTQ+ Rights,"McGrody, Ellen",,,,Florida,Marion County Public Schools,2022-2023
-31. Gender Issues (Living with a Special Need),"McIntosh, Kenneth","Walker, Ida",,,Texas,Texarkana Independent School District,2022-2023
-32. A + E 4ever,"Merey, I.",,,,Texas,Keller Independent School District,2022-2023
-33. No More Poems!: A Book in Verse That Just Gets Worse,"Miller, Rhett",,"Santat, Dan",,Texas,Keller Independent School District,2022-2023
-34. "Hama-Kimi: For You In Full Blossom, Vol. 1","Nakajo, Hisaya",,,,Pennsylvania,Penncrest School District,2022-2023
-35. "Sumomomo, Momomo: The Strongest Bride on Earth, Vol. 1","Ohtaka, Shinobu",,,,Missouri,Rockwood School District,2022-2023
-36. The History of Western Sculpture,"Osier, Peter",,,,Missouri,Wentzville School District,2022-2023
-37. The Essential Michelangelo,"Ottomann, Klaus",,,,Missouri,Wentzville School District,2022-2023
-38. Brisingr,"Paolini, Christopher",,,,Texas,Frisco Independent School District,2022-2023
-39. Saving the World & Other Extreme Sports,"Patterson, James",,,,Florida,Martin County Schools,2022-2023
-40. Bible Questions & Answers,"Pickering, David",,,,Florida,Brevard Public Schools,2022-2023
-41. The Stonewall Riots: Coming Out in the Street,"Pitman, Gayle E.",,,,Florida,Marion County Public Schools,2022-2023
-42. Graphic Classics: Edgar Allan Poe,"Pomplun, Tom","Poe, Edgar Allan","Geary, Rick; Sala, Richard; Crumb, Maxon; Bonivert, J. B.; Langridge, Roger; Rodriguez, Spain; Weber, Lisa K.; Gomez, Juan; Shaw, Stanley; Lopez, Pedro; Coulthart, John; Howarth, Matt",,Missouri,Wentzville School District,2022-2023
-43. Deuteronomy: The Jewish Children's Bible,"Prenzlau, Sheryl",,"Smekhov, Zely",,Florida,Brevard Public Schools,2022-2023
-44. Deadly Class,"Remender, Rick",,"Craig, Wes; Loughridge, Lee",,Missouri,Wentzville School District,2022-2023
-45. Vision in White,"Roberts, Nora",,,,Florida,Martin County Schools,2022-2023
-46. Queer Ducks (and Other Animals): The Natural World of Animal Sexuality,"Schrefer, Eliot",,"Zuckerberg, Jules",,Wisconsin,Gale-Ettrick-Trempealeau School District,2022-2023
+1. "Literary Newsmakers for Students, Vol. 1","Hacht, Anne Marie",,,,Florida,Clay County School District,2022-2023
+2. "Novels for Students, Vol. 60","Hill, Melissa Sue","Lee, Michelle",,,Florida,Clay County School District,2022-2023
+3. "Novels for Students, Vol. 61","Hill, Melissa Sue","Lee, Michelle",,,Florida,Clay County School District,2022-2023
+4. Gross Gods,"Hoena, Blake",,"Stevanovic, Ivica",,Florida,Duval County Public Schools,2022-2023
+5. "We Rise, We Resist, We Raise our Voices","Hudson, Wade","Hudson, Cheryl Willis",,,Florida,Clay County School District,2022-2023
+6. Blackbird: Book 1 The Great Beast,"Humphries, Sam",,"Bartel, Jen",,Missouri,Wentzville School District,2022-2023
+7. Secret Origins,"Lemire, Jeff",,"Ormston, Dean; Stewart, Dave",,Missouri,Wentzville School District,2022-2023
+8. "Novels for Students, Vol. 55","Mallegg, Kristin",,,,Florida,Clay County School District,2022-2023
+9. Graphic Classics: Edgar Allan Poe,"Pomplun, Tom","Poe, Edgar Allan","Geary, Rick; Sala, Richard; Crumb, Maxon; Bonivert, J. B.; Langridge, Roger; Rodriguez, Spain; Weber, Lisa K.; Gomez, Juan; Shaw, Stanley; Lopez, Pedro; Coulthart, John; Howarth, Matt",,Missouri,Wentzville School District,2022-2023
 
 books_info_final_eleven:
 1. "Novels for Students, Vol. 9","Stanley, Deborah A.","Milne, Ira Mark",,,Florida,Clay County School District,2022-2023
-2. Gay & Lesbian Youth,"Stewart, Gail B.",,,,Florida,Marion County Public Schools,2022-2023
-3. "Fruits Basket, Vol. 14","Takaya, Natsuki",,,,Pennsylvania,Penncrest School District,2022-2023
-4. "Fruits Basket, Vol. 17","Takaya, Natsuki",,,,Pennsylvania,Penncrest School District,2022-2023
-5. Transgender Activists and Celebrities,The New York Times Editorial Staff,,,,Florida,Marion County Public Schools,2022-2023
-6. Frankenstein,"Thorne, Ian",,,,Florida,Gilchrist County Schools,2022-2023
-7. The Hobbit,"Tolkien, J.R.R.",,,,Texas,Frisco Independent School District,2022-2023
-8. Ancient Assyria,"Tracy, Kathy",,,,Florida,Brevard Public Schools,2022-2023
-9. Graphic Classics Volume 8: Mark Twain - 2nd Edition,"Twain, Mark","Caputo, Antonella","Geary, Rick; Geradts, Evert; Flenniken, Shary; Miller, Nick; Gane, Simon; Ulve, Kirsten; Pawlosky, Toni; Tooks, Lance; Weber, Lisa K.; Owens, Annie; Fleener, Mary; Reppeteaux, Lesley",,Missouri,Wentzville School District,2022-2023
-10. The Adventures of Tom Sawyer (Sterling Illustrated Classics),"Twain, Mark",,Robert Ingpen,,Texas,Frisco Independent School District,2022-2023
-11. "Master Keaton, Vol. 4","Urasawa, Naoki","Nagasaki, Takashi; Hokusei Katsushika",,,Texas,Frisco Independent School District,2022-2023
-12. Countries in the News: Cuba,"Walsh, Kieran",,,,Florida,Miami-Dade Public Schools,2022-2023
-13. Date Rape (At Issue),"Watkins, Christine",,,,Florida,Seminole County Public Schools,2022-2023
-14. "Rat Queens, Vol. 1: Sass & Sorcery","Wiebe, Kurtis J.",,"Upchurch, Roc",,Texas,Frisco Independent School District,2022-2023
-15. "Hymns for a Kid's Heart, Vol. 1","Wolgemuth, Bobbie","Tada, Joni Eareckson","Martinez, Sergio",,Florida,Brevard Public Schools,2022-2023
-16. Cezanne: Mont Sainte Victoire,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
-17. Chagall: The Falling Angel,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
-18. Dali: The Persistence of Memory,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
-19. Manet: Le dejeuner sur I'herbe,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
-20. Munch: The Scream,"Zeri, Federico","Much, Edvard; Dolcetta, Marco",,,Missouri,Wentzville School District,2022-2023
-21. Rembrandt: Supper at Emmaus,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
-22. Renoir: Moulin de la Galette,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
-23. Rubens: Garden of Love,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
-24. Vermeer: The Astronomer,"Zeri, Federico","Vermeer, Johannes; Dolcetta, Marco",,,Missouri,Wentzville School District,2022-2023
-25. "Love, Hate & Other Filters","Ahmed, Samira",,,,Mississippi,Madison County Schools,2021-2022
-26. Victories Greater Than Death (Unstoppable Series),"Anders, Charlie Jane",,,,Tennessee,Collierville Schools,2021-2022
-27. Duels and Deception,"Anstey, Cindy",,,,Texas,Katy Independent School District,2021-2022
-28. "Brand New School, Brave New Ruby (Ruby and the Booker Boys Series)","Barnes, Derrick",,"Brantley-Newton, Vanessa",,Pennsylvania,Central York School District,2021-2022
-29. Soul of Cinder (Heart of Thorns Series),"Barton, Bree",,,,Tennessee,Collierville Schools,2021-2022
-30. King & Kayla and the Case of the Lost Library Book (King & Kayla Series),"Butler, Dori Hillestad",,"Meyers, Nancy",,Pennsylvania,Central York School District,2021-2022
-31. King & Kayla and the Case of the Secret Code (King & Kayla Series),"Butler, Dori Hillestad",,"Meyers, Nancy",,Pennsylvania,Central York School District,2021-2022
-32. Once & Future,"Capetta, Amy Rose",Cori McCarthy,,,Tennessee,Collierville Schools,2021-2022
-33. Sword in the Stars (Once & Future Series),"Capetta, Amy Rose",,,,Tennessee,Collierville Schools,2021-2022
-34. The Storm of Life (The Brilliant Death Series),"Capetta, Amy Rose",,,,Tennessee,Collierville Schools,2021-2022
-35. Love & Sex: Ten Stories of Truth,"Cart, Michael","Bauer, Joan; Donoghue, Emma; Hawes, Louise; Nix, Garth; Sones, Sonya; Anderson, Laurie Halse; Lynch, Chris; Lowenthal, Michael; Stoehr, Shelly; Johnson, Angela",,,Texas,Fredericksburg Independent School District,2021-2022
-36. The Year of the Book (Anna Wang Series),"Cheng, Andrea","Halpin, Abigail",,,Pennsylvania,Central York School District,2021-2022
-37. Forget This Ever Happened,"Clarke, Cassandra Rose",,,,Texas,North East Independent School District,2021-2022
-38. The Scapegracers (Scapegracers Series),"Clarke, Hannah Abigail",,,,Tennessee,Collierville Schools,2021-2022
-39. Short Stuff: A Young Adult LGBTQ+ Anthology,"Constantine, Alysia",,,,Tennessee,Collierville Schools,2021-2022
-40. Teaching When the World Is on Fire,"Delpit, Lisa D.",,,,Tennessee,Collierville Schools,2021-2022
-41. The Legend of the Bluebonnet (Legends Series),"dePaola, Tomie",,,,Florida,Duval County Public Schools,2021-2022
-42. "Memphis, Martin, and the Mountaintop: The Sanitation Strike of 1968","Duncan, Alice Faye",,"Christie, R. Gregory",,Florida,Duval County Public Schools,2021-2022
-43. Nikki & Deja (Nikki & Deja Series),"English, Karen",,"Freeman, Laura",,Pennsylvania,Central York School District,2021-2022
-44. En Comunidad: Lessons for Centering the Voices and Experiences of Bilingual Latinx Students,"España, Carla","Yadira Herrera, Luz",,,Pennsylvania,Central York School District,2021-2022
-45. "Jasmine Toguchi, Flamingo Keeper (Jasmine Toguchi Series)","Florence, Debbi Michiko",,"Vukovic, Elizabet",,Florida,Duval County Public Schools,2021-2022
+2. Graphic Classics Volume 8: Mark Twain - 2nd Edition,"Twain, Mark","Caputo, Antonella","Geary, Rick; Geradts, Evert; Flenniken, Shary; Miller, Nick; Gane, Simon; Ulve, Kirsten; Pawlosky, Toni; Tooks, Lance; Weber, Lisa K.; Owens, Annie; Fleener, Mary; Reppeteaux, Lesley",,Missouri,Wentzville School District,2022-2023
+3. Date Rape (At Issue),"Watkins, Christine",,,,Florida,Seminole County Public Schools,2022-2023
+4. Cezanne: Mont Sainte Victoire,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
+5. Chagall: The Falling Angel,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
+6. Manet: Le dejeuner sur I'herbe,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
+7. Munch: The Scream,"Zeri, Federico","Much, Edvard; Dolcetta, Marco",,,Missouri,Wentzville School District,2022-2023
+8. Renoir: Moulin de la Galette,"Zeri, Federico",,,,Missouri,Wentzville School District,2022-2023
+9. Short Stuff: A Young Adult LGBTQ+ Anthology,"Constantine, Alysia",,,,Tennessee,Collierville Schools,2021-2022
 
 books_info_final_twleve:
-1. Pedagogy of the Oppressed,"Freire, Paulo",,,,Pennsylvania,Central York School District,2021-2022
-2. Luis Munoz Marin (Community Builders),"George, Linda","George, Charles",,,Pennsylvania,Central York School District,2021-2022
-3. "Two Parties, One Tux, and a Very Short Film about The Grapes of Wrath","Goldman, Steven",,,,Texas,North East Independent School District,2021-2022
-4. Whatever.: or how junior year became totally f$@ked,"Goslee, S. J.",,,,Texas,North East Independent School District,2021-2022
-5. Cross My Heart (Cross My Heart Series),"Gould, Sasha",,,,Florida,Indian River County School District,2021-2022
-6. Refugee,"Gratz, Alan",,,,Pennsylvania,Central York School District,2021-2022
-7. "No Girls Allowed: Tales of Daring Women Dressed as Men for Love, Freedom and Adventure","Hughes, Susan",,"Dawson, Willow",,Texas,Granbury Independent School District,2021-2022
-8. The Afterward,"Johnston, E. K",,,,Tennessee,Collierville Schools,2021-2022
-9. Every Day Is Exciting (Sofía Martínez Series),"Jules, Jacqueline",,"Smith, Kim",,Pennsylvania,Central York School District,2021-2022
-10. My Fantástica Family (Sofía Martínez Series),"Jules, Jacqueline",,"Smith, Kim",,Pennsylvania,Central York School District,2021-2022
-11. My Vida Loca (Sofía Martínez Series),"Jules, Jacqueline",,"Smith, Kim",,Pennsylvania,Central York School District,2021-2022
-12. "Blue Flag, Vol. 1 (Blue Flag Series)",Kaito,,,"Beck, Adrienne",Tennessee,Collierville Schools,2021-2022
-13. "Blue Flag, Vol. 2 (Blue Flag Series)",Kaito,,,"Beck, Adrienne",Tennessee,Collierville Schools,2021-2022
-14. "Blue Flag, Vol. 3 (Blue Flag Series)",Kaito,,,"Beck, Adrienne",Tennessee,Collierville Schools,2021-2022
-15. "Blue Flag, Vol. 4 (Blue Flag Series)",Kaito,,,"Beck, Adrienne",Tennessee,Collierville Schools,2021-2022
-16. "Blue Flag, Vol. 5 (Blue Flag Series)",Kaito,,,"Beck, Adrienne",Tennessee,Collierville Schools,2021-2022
-17. Los colores de nuestra piel/The Colors of Us (Spanish Version),"Katz, Karen",,,"Marfà Pagès, Fina",Pennsylvania,Central York School District,2021-2022
-18. "Not Light, but Fire: How to Lead Meaningful Race Conversations in the Classroom","Kay, Matthew R.",,,,Pennsylvania,Central York School District,2021-2022
-19. Life in Outer Space,"Keil, Melissa",,,,Texas,North East Independent School District,2021-2022
-20. When They Call You a Terrorist (Young Adult Edition): A Story of Black Lives Matter and the Power to Change the World,"Khan-Cullors, Patrisse","Bandele, Asha",,,Tennessee,Collierville Schools,2021-2022
-21. Home of the Brave: 15 Immigrants Who Shaped U.S. History,"Khan, Brooke",,,,Pennsylvania,Central York School District,2021-2022
-22. I See the Sun in Afghanistan,"King, Dedie",,"Inglese, Judith","Vahidi, Mohd",Florida,Duval County Public Schools,2021-2022
-23. "My Most Excellent Year: A Novel of Love, Mary Poppins, and Fenway Park","Kluger, Steve",,,,Texas,Granbury Independent School District,2021-2022
-24. "RIPPED-APART Understanding, Coping and Living with Gender Dysphoria","Knight, Traci M.",,,,Tennessee,Collierville Schools,2021-2022
-25. ¡Vámonos! Let's Go!,"Lainez, Rene Colato",,"Cepeda, Joe",,Pennsylvania,Central York School District,2021-2022
-26. The Ultimate Guys' Body Book: Not-So-Stupid Questions About Your Body,"Larimore, Walter","Francis, Guy",,,Texas,North East Independent School District,2021-2022
-27. Absolute Brightness,"Lecesne, Celeste",,,,Texas,North East Independent School District,2021-2022
-28. When Spring Comes to the DMZ,"Lee, Uk-Bae",,,,Florida,Duval County Public Schools,2021-2022
-29. Black Wings Beating (Skybound Series),"London, Alex",,,,Tennessee,Collierville Schools,2021-2022
-30. Going Down Home with Daddy,"Lyons, Kelly Starling",,"Minter, Daniel",,Florida,Duval County Public Schools,2021-2022
-31. When Angels Sing: The Story of Rock Legend Carlos Santana,"Mahin, Michael James",,José Ramirez,,Florida,Duval County Public Schools,2021-2022
-32. Teens & Sex,"Marcovitz, Hal",,,,Texas,North East Independent School District,2021-2022
-33. Losing the Girl: Book 1 (Life on Earth),MariNaomi,,,,Texas,Katy Independent School District,2021-2022
-34. On the Other Side of Freedom: The Case for Hope,"Mckesson, DeRay",,,,Tennessee,Collierville Schools,2021-2022
-35. Blanca & Roja,"McLemore, Anna-Marie",,,,Tennessee,Collierville Schools,2021-2022
-36. Juana & Lucas (Juana and Lucas Series),"Medina, Juana",,,,Florida,Duval County Public Schools,2021-2022
-37. Who Was Aretha Franklin? (Who was...? Series),"Medina, Nico",,"Copeland, Gregory",,Pennsylvania,Central York School District,2021-2022
-38. ¿De Dónde Eres?/Where Are You From?,"Mendez, Yamile Saied",,,,Pennsylvania,Central York School District,2021-2022
-39. Sex & Violence,"Mesrobian, Carrie",,,,Texas,Fredericksburg Independent School District,2021-2022
-40. Campfire Stories (Desmond Cole Ghost Patrol Series),"Miedoso, Andrés",,"Rivas, Víctor",,Pennsylvania,Central York School District,2021-2022
-41. "Surf's Up, Creepy Stuff! (Desmond Cole Ghost Patrol Series)","Miedoso, Andrés",,"Rivas, Víctor",,Pennsylvania,Central York School District,2021-2022
-42. No One Knows About You,"Montoya, Paco",,,,Texas,Katy Independent School District,2021-2022
-43. The Doctor with an Eye for Eyes: The Story of Dr. Patricia Bath,"Mosca, Julia Finley",,"Rieley, Daniel",,Pennsylvania,Central York School District,2021-2022
-44. Proud: Living My American Dream (Young Readers Edition),"Muhammad, Ibtihaj",,,,Florida,Duval County Public Schools,2021-2022
-45. Yang the Third and Her Impossible Family (The Yang Family Series),"Namioka, Lensey",,"de Kiefte, Kees",,Florida,Duval County Public Schools,2021-2022
-46. "The Book Itch: Freedom, Truth & Harlem's Greatest Bookstore","Nelson, Vaunda Micheaux",,"Christie, R. Gregory",,Pennsylvania,Central York School District,2021-2022
-47. Sparkle Boy,"Newman, Leslea",,,,Indiana,Carmel Clay Schools,2021-2022
-48. "Daddy, Papa, and Me","Newman, Lesléa",,"Thompson, Carol",,Florida,Duval County Public Schools,2021-2022
-49. "Mommy, Mama, and Me","Newman, Lesléa",,"Thompson, Carol",,Florida,Walton County School District,2021-2022
-50. Meg & Linus,"Nowinski, Hanna",,,,Texas,Granbury Independent School District,2021-2022
-51. The Witch's Hand (The Montague Twins),"Page, Nathan","Shannon, Drew",,,Tennessee,Collierville Schools,2021-2022
-52. "Friendship, Dating, and Relationships (Teens: Being Gay, Lesbian, Bisexual, or Transgender)","Payment, Simone",,,,Texas,North East Independent School District,2021-2022
+1. I See the Sun in Afghanistan,"King, Dedie",,"Inglese, Judith","Vahidi, Mohd",Florida,Duval County Public Schools,2021-2022
+2. "RIPPED-APART Understanding, Coping and Living with Gender Dysphoria","Knight, Traci M.",,,,Tennessee,Collierville Schools,2021-2022
+3. No One Knows About You,"Montoya, Paco",,,,Texas,Katy Independent School District,2021-2022
 
 books_info_final_thirteen:
-1. Who Was Susan B. Anthony? (Who was...? Series),"Pollack, Pam","Belviso, Meg","Lacey, Mike",,Pennsylvania,Central York School District,2021-2022
-2. The Blood Countess (Lady Slayers Series),"Popović, Lana",,,,Texas,North East Independent School District,2021-2022
-3. Baby & Solo,"Posthuma, Lisabeth",,,,Tennessee,Collierville Schools,2021-2022
-4. "Bend, Don't Shatter: Poets on the Beginning of Desire","Rachel, T. Cole","Costello, Rita D.",,,Texas,Cypress-Fairbanks Independent School District,2021-2022
-5. Ghost (Track Series),"Reynolds, Jason",,,,Pennsylvania,Central York School District,2021-2022
-6. Ninth Ward (The Louisiana Girls Trilogy Series),"Rhodes, Jewell Parker",,,,Pennsylvania,Central York School District,2021-2022
-7. Two Dads: A Book About Adopton,"Robertson, Carolyn",,"Humphreys, Sophie",,Florida,Walton County School District,2021-2022
-8. Living Proud! Coming Out and Seeking Support (Living Proud! Growing Up Lgbtq),"Rodi, Robert","Ross, Laura",,,Florida,Indian River County School District,2021-2022
-9. "It Gets Better: Coming Out, Overcoming Bullying, and Creating a Life Worth Living","Savage, Dan","Miller, Terry",,,Tennessee,Collierville Schools,2021-2022
-10. On Mother's Lap,"Scott, Ann Herbert",,"Coalson, Glo",,Florida,Duval County Public Schools,2021-2022
 11. The LGBT Community,"Seba, Jaime A.",,,,Texas,North East Independent School District,2021-2022
-12. 25 Women Who Ruled,"Stanborough, Rebecca J.",,,,Pennsylvania,Central York School District,2021-2022
-13. Who Is Sonia Sotomayor? (Who was...? Series),"Stine, Megan",,"Putra, Dede",,Pennsylvania,Central York School District,2021-2022
-14. Cilla Lee-Jenkins: This Book Is a Classic (Cilla Lee-Jenkins Series),"Tan, Susan",,"Wulfekotte, Dana",,Pennsylvania,Central York School District,2021-2022
-15. Me Myself & Him,"Tebbetts, Chris",,,,Tennessee,Collierville Schools,2021-2022
-16. #BlackLivesMatter: Protesting Racism,"Thomas, Rachael L.",,,,Florida,Indian River County School District,2021-2022
-17. Tarnished Are the Stars,"Thor, Rosiee",,,,Tennessee,Collierville Schools,2021-2022
-18. The Bracelet,"Uchida,Yoshiko",,"Yardley, Joanna",,Florida,Duval County Public Schools,2021-2022
-19. "Dad, Jackie, and Me","Uhlberg, Myron",,"Bootman, Colin",,Florida,Duval County Public Schools,2021-2022
-20. "Saga, Volume 1 (Saga Series)","Vaughan, Brian K.",,"Staples, Fiona",,Illinois,Lake Forest Schools,2021-2022
-21. Looking for Bongo,"Velásquez, Eric",,,,Florida,Duval County Public Schools,2021-2022
-22. I Am Human: A Book of Empathy (I Am... Series),"Verde, Susan",,"Reynolds, Peter H.",,Pennsylvania,Central York School District,2021-2022
 23. Condoleezza Rice: Being the Best (Gateway Biographies),"Wade, Mary Dodson",,,,Pennsylvania,Central York School District,2021-2022
-24. The Book of Essie,"Weir, Meghan MacLean",,,,Tennessee,Collierville Schools,2021-2022
-25. The Boy in the Dress,"Williams, David",,"Blake, Quentin",,Florida,Sarasota County School,2021-2022
-26. Sonia Sotomayor: A Judge Grows in the Bronx/La juez que creció en el Bronx,"Winter, Jonah",,"Rodriquez, Edel",,Pennsylvania,Central York School District,2021-2022
 27. Understanding Sexuality,"World Book, Inc.",,,,Texas,Fredericksburg Independent School District,2021-2022
-28. Who Was Sojourner Truth? (Who was...? Series),"Zeldis McDonough, Yona",,"Eldridge, Jim",,Pennsylvania,Central York School District,2021-2022
-29. Read the World: Rethinking Literacy for Empathy and Action in a Digital Age,"Ziemke, Kristin","Muhtaris, Katie",,,Pennsylvania,Central York School District,2021-2022

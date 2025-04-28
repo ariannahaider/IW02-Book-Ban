@@ -39,16 +39,4 @@ layout = dbc.Container([
             ], className="h-100"
         ), md=4),
     ], className="mb-4"),
-    
-    dbc.Row(
-        dbc.Col(dbc.Card(
-            [
-                dbc.CardHeader("District-Level Analysis"),
-                dbc.CardBody([
-                    html.P("See which school districts ban the most books"),
-                    dcc.Link("Explore District Data", href="/district-analysis", className="btn btn-primary")
-                ])
-            ], className="h-100"
-        ), md=4),
-    )
 ])

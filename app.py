@@ -12,7 +12,6 @@ app.layout = html.Div([
             dbc.NavLink("State Analysis", href="/state-analysis"),
             dbc.NavLink("Book Analysis", href="/book-analysis"),
             dbc.NavLink("Author Analysis", href="/author-analysis"),
-            dbc.NavLink("District Analysis", href="/district-analysis"),
         ],
         brand="Banned Books Dashboard",
         color="primary",
