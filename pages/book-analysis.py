@@ -32,7 +32,7 @@ def normalize_title(title):
 data['Normalized Title'] = data['Title'].apply(normalize_title)
 
 # Get all matching JSON files
-json_files = glob.glob('/Users/ariannahaider/IW02-Book-Ban/books_info_finals/books_info_final_*.json')
+json_files = glob.glob('pages/books_info_finals/books_info_final_*.json')
 
 # Load and combine data from all matching files
 data_json = []
